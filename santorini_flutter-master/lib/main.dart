@@ -3,26 +3,27 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter/animation.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
+import 'package:santorini_flutter/sidebar/sidebar.dart';
 import 'sidebar/sidebar_layout.dart';
 
 void main() {runApp(MaterialApp(
-                title: 'Navigation Basics',
-                home: FirstRoute(),
-                ));
+  title: 'Navigation Basics',
+  home: FirstRoute(),
+));
 }
 
 
 class FirstRoute extends StatelessWidget {
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-        theme: ThemeData(
+      theme: ThemeData(
           scaffoldBackgroundColor: Colors.white,
           primaryColor: Colors.white
-        ),
+      ),
       home: Scaffold(
+        drawer: SideBar(),
         appBar: AppBar(
             title: Text('Santorini Test Application')),
         body: new Container(
@@ -34,7 +35,7 @@ class FirstRoute extends StatelessWidget {
                     fit: BoxFit.cover)
             ),
             child: Stack (alignment: Alignment.center, children: <Widget>[
-                new SizedBox.fromSize(
+              new SizedBox.fromSize(
                 size: Size(150, 150), // button width and height
                 child: ClipOval(
                   child: Material(
@@ -51,39 +52,25 @@ class FirstRoute extends StatelessWidget {
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: <Widget>[
                           Text('Start App',
-                              textAlign: TextAlign.center,
-                              style: TextStyle(
-                              fontFamily: 'Aleo',
-                              fontStyle: FontStyle.normal,
-                              fontWeight: FontWeight.bold,
-                              fontSize: 25.0,
-                              color: Colors.black
-                          ),), // text
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                                fontFamily: 'Aleo',
+                                fontStyle: FontStyle.normal,
+                                fontWeight: FontWeight.bold,
+                                fontSize: 25.0,
+                                color: Colors.black
+                            ),), // text
                         ],
                       ),
                     ),
                   ),
                 ),
               ),
-              ],
+            ],
             ),
           ),
+        ),
       ),
-    ),
-    );
-  }
-}
-
-class MyApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-          scaffoldBackgroundColor: Colors.white,
-          primaryColor: Colors.white
-      ),
-      home: SideBarLayout(),
     );
   }
 }
@@ -133,4 +120,5 @@ class MapSampleState extends State<MapSample> {
     controller.animateCamera(CameraUpdate.newCameraPosition(_kLake));
   }
 }
+
 

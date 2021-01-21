@@ -67,8 +67,8 @@ class _SideBarState extends State<SideBar> with SingleTickerProviderStateMixin<S
             children: <Widget>[
               Expanded(
                 child: Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 20),
-                  color: const Color(0xFF262AAA),
+                  padding: const EdgeInsets.symmetric(horizontal: 15),
+                  color: const Color(0xFFFFFFF),
                   child: Column(
                     children: <Widget>[
                       SizedBox(
@@ -76,11 +76,11 @@ class _SideBarState extends State<SideBar> with SingleTickerProviderStateMixin<S
                       ),
                       ListTile(
                         title: Text(
-                          "Prateek",
+                          "User",
                           style: TextStyle(color: Colors.white, fontSize: 30, fontWeight: FontWeight.w800),
                         ),
                         subtitle: Text(
-                          "www.techieblossom.com",
+                          "www.user.com",
                           style: TextStyle(
                             color: Color(0xFF1BB5FD),
                             fontSize: 18,
@@ -109,22 +109,22 @@ class _SideBarState extends State<SideBar> with SingleTickerProviderStateMixin<S
                         },
                       ),
                       MenuItem(
-                        icon: Icons.person,
-                        title: "My Account",
+                        icon: Icons.alt_route,
+                        title: "Map",
                         onTap: () {
                           onIconPressed();
                         },
                       ),
                       MenuItem(
-                        icon: Icons.shopping_basket,
-                        title: "My Orders",
+                        icon: Icons.info_outline,
+                        title: "Points of interest",
                         onTap: () {
                           onIconPressed();
                         },
                       ),
                       MenuItem(
-                        icon: Icons.card_giftcard,
-                        title: "Wishlist",
+                        icon: Icons.star_rate,
+                        title: "Rate",
                       ),
                       Divider(
                         height: 64,
@@ -134,12 +134,12 @@ class _SideBarState extends State<SideBar> with SingleTickerProviderStateMixin<S
                         endIndent: 32,
                       ),
                       MenuItem(
-                        icon: Icons.settings,
-                        title: "Settings",
+                        icon: Icons.link,
+                        title: "Follow us",
                       ),
                       MenuItem(
                         icon: Icons.exit_to_app,
-                        title: "Logout",
+                        title: "Exit",
                       ),
                     ],
                   ),
