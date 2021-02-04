@@ -1,52 +1,59 @@
 import 'package:bloc/bloc.dart';
-import 'package:santorini_flutter/pages/exitpage.dart';
+import 'package:santorini_flutter/pages/aboutthisapppage.dart';
+import 'package:santorini_flutter/pages/contactuspage.dart';
 import 'package:santorini_flutter/pages/followuspage.dart';
-import 'package:santorini_flutter/pages/ratepage.dart';
-import 'package:santorini_flutter/pages/mappage.dart';
-import 'package:santorini_flutter/pages/poispage.dart';
-import 'package:santorini_flutter/pages/homepage.dart';
+import 'package:santorini_flutter/pages/ratethisapppage.dart';
+import 'package:santorini_flutter/pages/termsofusepage.dart';
+import 'package:santorini_flutter/ui/volcaloes_map.dart';
+import 'package:santorini_flutter/ui/churches_map.dart';
+import '../pages/listpage.dart';
+import 'package:santorini_flutter/ui/homepage.dart';
 
 enum NavigationEvents {
   HomePageClickedEvent,
-  MapPageClickEvent,
-  PoisPageClickedEvent,
-  RatePageClickedEvent,
-  FollowusPageClickedEvent,
-  ExitPageClickedEvent,
+  ListClickedEvent,
+  AboutthisappClickedEvent,
+  RatethisappClickedEvent,
+  FollowusClickedEvent,
+  TermsofuseClickedEvent,
+  ContactusClickedEvent,
+  MapClickedEvent
 }
 
 abstract class NavigationStates {}
 
-class NavigationBloc extends Bloc<NavigationBloc, NavigationStates> {
-  NavigationStates get initialState => MapPage();
+class NavigationBloc extends Bloc<NavigationEvents, NavigationStates> {
+  @override
+  // TODO: implement initialState
+  NavigationStates get initialState => HomePage();
 
-  Stream<NavigationStates> mapEventToStates(NavigationEvents event) async* {
+  @override
+  Stream<NavigationStates> mapEventToState(NavigationEvents event) async* {
     switch (event) {
       case NavigationEvents.HomePageClickedEvent:
         yield HomePage();
         break;
-      case NavigationEvents.MapPageClickEvent:
-        yield MapPage();
+      case NavigationEvents.ListClickedEvent:
+        yield ListPage();
         break;
-      case NavigationEvents.PoisPageClickedEvent:
-        yield PoisPage();
+      case NavigationEvents.AboutthisappClickedEvent:
+        yield Aboutthisapppage();
         break;
-      case NavigationEvents.RatePageClickedEvent:
-        yield RatePage();
+      case NavigationEvents.RatethisappClickedEvent:
+        yield Ratethisapp();
         break;
-      case NavigationEvents.FollowusPageClickedEvent:
-        yield FollowusPage();
+      case NavigationEvents.FollowusClickedEvent:
+        yield Followuspage();
         break;
-      case NavigationEvents.ExitPageClickedEvent:
-        yield ExitPage();
+      case NavigationEvents.TermsofuseClickedEvent:
+        yield Termsofusepage();
+        break;
+      case NavigationEvents.ContactusClickedEvent:
+        yield Contactusppage();
+        break;
+      case NavigationEvents.MapClickedEvent:
+        // TODO: Handle this case.
         break;
     }
   }
-
-  @override
-  Stream<NavigationStates> mapEventToState(Bloc<NavigationBloc, NavigationStates> event) {
-    // TODO: implement mapEventToState
-    throw UnimplementedError();
-  }
 }
-

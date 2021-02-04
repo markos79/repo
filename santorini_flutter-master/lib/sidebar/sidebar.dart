@@ -1,9 +1,8 @@
 import 'dart:async';
-
+import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:rxdart/rxdart.dart';
-
 import '../bloc.navigation_bloc/navigation_bloc.dart';
 import '../sidebar/menu_item.dart';
 
@@ -67,38 +66,29 @@ class _SideBarState extends State<SideBar> with SingleTickerProviderStateMixin<S
             children: <Widget>[
               Expanded(
                 child: Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 15),
-                  color: const Color(0xFFFFFFF),
+                  padding: const EdgeInsets.symmetric(horizontal: 20),
+                  color: const Color(0xFF3b5188),
                   child: Column(
                     children: <Widget>[
                       SizedBox(
-                        height: 100,
+                        height: 60,
                       ),
                       ListTile(
                         title: Text(
-                          "User",
+                          "Santorini Culture App",
                           style: TextStyle(color: Colors.white, fontSize: 30, fontWeight: FontWeight.w800),
                         ),
-                        subtitle: Text(
-                          "www.user.com",
-                          style: TextStyle(
-                            color: Color(0xFF1BB5FD),
-                            fontSize: 18,
-                          ),
-                        ),
                         leading: CircleAvatar(
-                          child: Icon(
-                            Icons.perm_identity,
-                            color: Colors.white,
-                          ),
+                          backgroundColor: Colors.transparent,
+                          backgroundImage: AssetImage("images/logo.png"),
                           radius: 40,
                         ),
                       ),
                       Divider(
-                        height: 64,
+                        height: 33,
                         thickness: 0.5,
                         color: Colors.white.withOpacity(0.3),
-                        indent: 32,
+                        indent: 22,
                         endIndent: 32,
                       ),
                       MenuItem(
@@ -106,40 +96,63 @@ class _SideBarState extends State<SideBar> with SingleTickerProviderStateMixin<S
                         title: "Home",
                         onTap: () {
                           onIconPressed();
+                          BlocProvider.of<NavigationBloc>(context).add(NavigationEvents.HomePageClickedEvent);
                         },
                       ),
                       MenuItem(
-                        icon: Icons.alt_route,
-                        title: "Map",
+                        icon: Icons.map,
+                        title: "List",
                         onTap: () {
                           onIconPressed();
+                          BlocProvider.of<NavigationBloc>(context).add(NavigationEvents.ListClickedEvent);
                         },
                       ),
                       MenuItem(
-                        icon: Icons.info_outline,
-                        title: "Points of interest",
+                        icon: Icons.info,
+                        title: "About this app",
                         onTap: () {
                           onIconPressed();
+                          BlocProvider.of<NavigationBloc>(context).add(NavigationEvents.AboutthisappClickedEvent);
                         },
                       ),
                       MenuItem(
                         icon: Icons.star_rate,
-                        title: "Rate",
-                      ),
-                      Divider(
-                        height: 64,
-                        thickness: 0.5,
-                        color: Colors.white.withOpacity(0.3),
-                        indent: 32,
-                        endIndent: 32,
+                        title: "Rate this app",
+                        onTap: () {
+                          onIconPressed();
+                          BlocProvider.of<NavigationBloc>(context).add(NavigationEvents.RatethisappClickedEvent);
+                        },
                       ),
                       MenuItem(
                         icon: Icons.link,
                         title: "Follow us",
+                        onTap: () {
+                          onIconPressed();
+                          BlocProvider.of<NavigationBloc>(context).add(NavigationEvents.FollowusClickedEvent);
+                        },
+                      ),
+                      MenuItem(
+                        icon: Icons.text_snippet_rounded,
+                        title: "Terms of use",
+                        onTap: () {
+                          onIconPressed();
+                          BlocProvider.of<NavigationBloc>(context).add(NavigationEvents.TermsofuseClickedEvent);
+                        },
+                      ),
+                      MenuItem(
+                        icon: Icons.contact_mail,
+                        title: "Contact us",
+                        onTap: () {
+                          onIconPressed();
+                          BlocProvider.of<NavigationBloc>(context).add(NavigationEvents.ContactusClickedEvent);
+                        },
                       ),
                       MenuItem(
                         icon: Icons.exit_to_app,
                         title: "Exit",
+                        onTap: () {
+                        onIconPressed();
+                          exit(0);}
                       ),
                     ],
                   ),
@@ -156,12 +169,12 @@ class _SideBarState extends State<SideBar> with SingleTickerProviderStateMixin<S
                     child: Container(
                       width: 35,
                       height: 110,
-                      color: Color(0xFF262AAA),
+                      color: Color(0xFF3d5389),
                       alignment: Alignment.centerLeft,
                       child: AnimatedIcon(
                         progress: _animationController.view,
                         icon: AnimatedIcons.menu_close,
-                        color: Color(0xFF1BB5FD),
+                        color: Color(0xFFffffff),
                         size: 25,
                       ),
                     ),

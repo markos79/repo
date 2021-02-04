@@ -1,9 +1,9 @@
- name: santorini_flutter
- description: A new Flutter application.
+name: santorini_flutter
+description: A new Flutter application.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
- publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -15,31 +15,36 @@
 # In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
 # Read more about iOS versioning at
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
- version: 1.0.0+1
+version: 1.0.0+1
 
- environment:
+environment:
   sdk: ">=2.7.0 <3.0.0"
 
- dependencies:
+dependencies:
   flutter:
     sdk: flutter
   google_maps_flutter: ^0.5.5
-  js: ^0.6.2
+  rate_my_app: ^0.6.0+2
+  country_icons: ^1.1.1
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.0
+  share: ^0.6.2+3
   flutter_bloc: ^2.1.1
+  equatable:
+  rxdart: ^0.22.0
+  quick_feedback:
 
- dev_dependencies:
-   flutter_test:
-     sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter.
- flutter:
+flutter:
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
@@ -47,6 +52,17 @@
   uses-material-design: true
   assets:
     - images/main.jpg
+    - images/normalMarker.png
+    - images/selectedMarker.png
+    - images/museum.png
+    - images/akrotirithera.jpg
+    - images/volcano.png
+    - images/churches.png
+    - images/archeological.png
+    - images/paths.png
+    - images/mapmarker.png
+    - images/logo.png
+    - images/iconcontact.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
