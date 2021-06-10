@@ -24,21 +24,45 @@ dependencies:
   flutter:
     sdk: flutter
   google_maps_flutter: ^0.5.5
+  animated_splash: ^1.0.0
+  http: ^0.12.0+1
+  json_serializable: ^3.3.0
+  flutter_sliding_up_panel: ^1.1.0+1
+  carousel_slider: ^2.3.1
+  panorama: ^0.3.1
   rate_my_app: ^0.6.0+2
   country_icons: ^1.1.1
+  url_launcher: 5.5.0
+  external_app_launcher: ^0.0.1
+  share: ^0.6.5+4
+  favorite_button: ^0.0.3
+  path_provider: ^1.6.27
+  scroll_snap_list: ^0.6.0
+  video_player: ^1.0.1
+  chewie: ^0.12.2
+  sliding_up_panel: ^1.0.2
+  image_picker: ^0.6.2
+  animated_splash_screen: ^1.0.1
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.0
-  share: ^0.6.2+3
   flutter_bloc: ^2.1.1
   equatable:
   rxdart: ^0.22.0
   quick_feedback:
 
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  pedantic: ^1.9.0
+  build_runner: ^1.10.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -55,15 +79,189 @@ flutter:
     - images/normalMarker.png
     - images/selectedMarker.png
     - images/museum.png
+    - images/castle1.png
     - images/akrotirithera.jpg
     - images/volcano.png
-    - images/churches.png
+    - images/church.png
     - images/archeological.png
-    - images/paths.png
+    - images/path.png
     - images/mapmarker.png
-    - images/logo.png
+    - images/santorini_logo.png
+    - images/morepaths.jpg
+    - locations/locations.json
+    - locations/locations2.json
+    - locations/monument-list.json
+    - images/marker1.png
+    - images/pins/archaelogical.png
+    - images/pins/castle.png
+    - images/pins/churches.png
+    - images/pins/laography.png
+    - images/pins/museums.png
+    - images/pins/paths.png
+    - images/pins/volcanos.png
+    - images/monuments/
+    - images/monuments/akrotiri/gallery/a1-min.jpg
+    - images/monuments/akrotiri/gallery/a2-min.jpg
+    - images/monuments/akrotiri/gallery/a3-min.jpg
+    - images/monuments/akrotiri/gallery/a4-min.jpg
+    - images/monuments/akrotiri/gallery/a5-min.jpg
+    - images/monuments/akrotiri/gallery/a6-min.jpg
+    - images/monuments/akrotiri/gallery/a7-min.jpg
+    - images/monuments/akrotiri/gallery/a8-min.jpg
+    - images/monuments/akrotiri/gallery/a9-min.jpg
+    - images/monuments/akrotiri/gallery/a10-min.jpg
+    - images/monuments/akrotiri/gallery/a11-min.jpg
+    - images/monuments/akrotiri/gallery/a12-min.jpg
+    - images/monuments/akrotiri/gallery/a13-min.jpg
+    - images/monuments/orthodox_ypapanti/gallery/b1.jpg
+    - images/monuments/orthodox_ypapanti/gallery/b2.jpg
+    - images/monuments/orthodox_ypapanti/gallery/b3.jpg
+    - images/monuments/orthodox_ypapanti/gallery/b4.jpg
+    - images/monuments/orthodox_ypapanti/gallery/b5.jpg
+    - images/monuments/orthodox_ypapanti/gallery/b6.jpg
+    - images/monuments/orthodox_ypapanti/gallery/b7.jpg
+    - images/monuments/orthodox_ypapanti/gallery/b8.jpg
+    - images/monuments/orthodox_ypapanti/gallery/b9.jpg
+    - images/monuments/orthodox_ypapanti/gallery/b10.jpg
+    - images/monuments/orthodox_ypapanti/gallery/b11.jpg
+    - images/monuments/orthodox_ypapanti/gallery/b12.jpg
+    - images/monuments/maritime_museum/gallery/i1.jpg
+    - images/monuments/maritime_museum/gallery/i2.jpg
+    - images/monuments/maritime_museum/gallery/i3.jpg
+    - images/monuments/maritime_museum/gallery/i4.jpg
+    - images/monuments/maritime_museum/gallery/i5.jpg
+    - images/monuments/maritime_museum/gallery/i6.jpg
+    - images/monuments/maritime_museum/gallery/i7.jpg
+    - images/monuments/maritime_museum/gallery/i8.jpg
+    - images/monuments/maritime_museum/gallery/i9.jpg
+    - images/monuments/maritime_museum/gallery/i10.jpg
+    - images/monuments/maritime_museum/gallery/i11.jpg
+    - images/monuments/maritime_museum/gallery/i12.jpg
+    - images/monuments/new_kameni/gallery/e1.jpg
+    - images/monuments/new_kameni/gallery/e2.jpg
+    - images/monuments/new_kameni/gallery/e3.jpg
+    - images/monuments/new_kameni/gallery/e4.jpg
+    - images/monuments/new_kameni/gallery/e5.jpg
+    - images/monuments/new_kameni/gallery/e6.jpg
+    - images/monuments/new_kameni/gallery/e7.jpg
+    - images/monuments/new_kameni/gallery/e8.jpg
+    - images/monuments/new_kameni/gallery/e9.jpg
+    - images/monuments/new_kameni/gallery/e10.jpg
+    - images/monuments/new_kameni/gallery/e11.jpg
+    - images/monuments/new_kameni/gallery/e12.jpg
+    - images/monuments/palaia_kameni/gallery/f1.jpg
+    - images/monuments/palaia_kameni/gallery/f2.jpg
+    - images/monuments/palaia_kameni/gallery/f3.jpg
+    - images/monuments/palaia_kameni/gallery/f4.jpg
+    - images/monuments/palaia_kameni/gallery/f5.jpg
+    - images/monuments/palaia_kameni/gallery/f6.jpg
+    - images/monuments/palaia_kameni/gallery/f7.jpg
+    - images/monuments/palaia_kameni/gallery/f8.jpg
+    - images/monuments/palaia_kameni/gallery/f9.jpg
+    - images/monuments/palaia_kameni/gallery/f10.jpg
+    - images/monuments/palaia_kameni/gallery/f11.jpg
+    - images/monuments/palaia_kameni/gallery/f12.jpg
+    - images/monuments/palaiochristianiki/gallery/d1.jpg
+    - images/monuments/palaiochristianiki/gallery/d2.jpg
+    - images/monuments/palaiochristianiki/gallery/d3.jpg
+    - images/monuments/palaiochristianiki/gallery/d4.jpg
+    - images/monuments/palaiochristianiki/gallery/d5.jpg
+    - images/monuments/palaiochristianiki/gallery/d6.jpg
+    - images/monuments/palaiochristianiki/gallery/d7.jpg
+    - images/monuments/palaiochristianiki/gallery/d8.jpg
+    - images/monuments/panagia_episkopi/gallery/c1.jpg
+    - images/monuments/panagia_episkopi/gallery/c2.jpg
+    - images/monuments/panagia_episkopi/gallery/c3.jpg
+    - images/monuments/panagia_episkopi/gallery/c4.jpg
+    - images/monuments/panagia_episkopi/gallery/c5.jpg
+    - images/monuments/panagia_episkopi/gallery/c6.jpg
+    - images/monuments/panagia_episkopi/gallery/c7.jpg
+    - images/monuments/panagia_episkopi/gallery/c8.jpg
+    - images/monuments/panagia_episkopi/gallery/c9.jpg
+    - images/monuments/panagia_episkopi/gallery/c10.jpg
+    - images/monuments/panagia_episkopi/gallery/c11.jpg
+    - images/monuments/panagia_episkopi/gallery/c12.jpg
+    - images/monuments/prehistoric_museum/gallery/g1.jpg
+    - images/monuments/prehistoric_museum/gallery/g2.jpg
+    - images/monuments/prehistoric_museum/gallery/g3.jpg
+    - images/monuments/prehistoric_museum/gallery/g4.jpg
+    - images/monuments/prehistoric_museum/gallery/g5.jpg
+    - images/monuments/prehistoric_museum/gallery/g6.jpg
+    - images/monuments/prehistoric_museum/gallery/g7.jpg
+    - images/monuments/prehistoric_museum/gallery/g8.jpg
+    - images/monuments/prehistoric_museum/gallery/g9.jpg
+    - images/monuments/prehistoric_museum/gallery/g10.jpg
+    - images/monuments/prehistoric_museum/gallery/g11.jpg
+    - images/monuments/prehistoric_museum/gallery/g12.jpg
+    - images/monuments/tomato/gallery/h1.jpg
+    - images/monuments/tomato/gallery/h2.jpg
+    - images/monuments/tomato/gallery/h3.jpg
+    - images/monuments/tomato/gallery/h4.jpg
+    - images/monuments/tomato/gallery/h5.jpg
+    - images/monuments/tomato/gallery/h6.jpg
+    - images/monuments/tomato/gallery/h7.jpg
+    - images/monuments/tomato/gallery/h8.jpg
+    - images/monuments/tomato/gallery/h9.jpg
+    - images/monuments/tomato/gallery/h10.jpg
+    - images/monuments/tomato/gallery/h11.jpg
+    - images/monuments/walking_path_megaloxori_pirgos_emporio/gallery/k1.jpg
+    - images/monuments/walking_path_megaloxori_pirgos_emporio/gallery/k2.jpg
+    - images/monuments/walking_path_megaloxori_pirgos_emporio/gallery/k3.jpg
+    - images/monuments/walking_path_megaloxori_pirgos_emporio/gallery/k4.jpg
+    - images/monuments/walking_path_megaloxori_pirgos_emporio/gallery/k5.jpg
+    - images/monuments/walking_path_megaloxori_pirgos_emporio/gallery/k6.jpg
+    - images/monuments/walking_path_megaloxori_pirgos_emporio/gallery/k7.jpg
+    - images/monuments/walking_path_megaloxori_pirgos_emporio/gallery/k8.jpg
+    - images/monuments/walking_path_megaloxori_pirgos_emporio/gallery/k9.jpg
+    - images/monuments/walking_path_megaloxori_pirgos_emporio/gallery/k10.jpg
+    - images/monuments/walking_path_megaloxori_pirgos_emporio/gallery/k11.jpg
+    - images/monuments/walking_path_megaloxori_pirgos_emporio/gallery/k12.jpg
+    - images/monuments/walking_path_oia/gallery/j1.jpg
+    - images/monuments/walking_path_oia/gallery/j2.jpg
+    - images/monuments/walking_path_oia/gallery/j3.jpg
+    - images/monuments/walking_path_oia/gallery/j4.jpg
+    - images/monuments/walking_path_oia/gallery/j5.jpg
+    - images/monuments/walking_path_oia/gallery/j6.jpg
+    - images/monuments/walking_path_oia/gallery/j7.jpg
+    - images/monuments/walking_path_oia/gallery/j8.jpg
+    - images/monuments/walking_path_oia/gallery/j9.jpg
+    - images/monuments/walking_path_oia/gallery/j10.jpg
+    - images/monuments/walking_path_oia/gallery/j11.jpg
+    - images/monuments/walking_path_oia/gallery/j12.jpg
+    - images/pins/logo.png
+    - images/pins/logo_white.png
     - images/iconcontact.png
-
+    - images/santorini1.png
+    - images/santorini2.png
+    - images/santorini3.png
+    - images/santorini4.png
+    - video/akrotiri/akrotitri.mp4
+    - images/panorama/akrotiri/akrotiri.jpg
+    - images/pins/logo.png
+    - video/orthodox_ypapanti/ORTHODOX_CATHEDRAL.mp4
+    - images/panorama/orthodox_ypapanti/ypapanti_panorama.jpg
+    - images/panorama/panagia_episkopi/PANAGIA EPISKOPI PANORAMIC 01 SMALL PANORAMIC.jpg
+    - images/panorama/palaiochristianiki/PALAIOXRISTIANIKI WIDE SMALL PANORAMA.jpg
+    - images/panorama/new_kameni/VIDEO_08180 SMALL PANORAMIC.jpg
+    - images/panorama/palaia_kameni/VIDEO_14560 SMALL PANORAMIC.jpg
+    - images/panorama/prehistoric_museum/IMG_0948 WIDE SMALL PANORAMA.jpg
+    - images/panorama/tomato/G0362487 WIDE SMALL PANORAMA.jpg
+    - images/panorama/maritime_museum/IMG_1019 WIDE SMAL PANORAMAL.jpg
+    - images/panorama/walking_path_oia/SANTORINI FOR MONOPATI SMALL panoramic.jpg
+    - images/panorama/walking_path_megaloxori_pirgos_emporio/PYRGOS PANORAMIC 01 SMALL PANORAMIC.jpg
+    - video/panagia_episkopi/PANAGIAEPISKOPI.mp4
+    - video/palaiochristianiki/BASILICA_ST_EIRINI.mp4
+    - video/new_kameni/NEAKAMENI.mp4
+    - video/palaia_kameni/PALEAKAMENI.mp4
+    - video/prehistoric_museum/MuseumofPrehistoric.mp4
+    - video/tomato/TOMATOI_MUSEUM.mp4
+    - video/maritime_museum/MARITIMEMUSEUM.mp4
+    - video/walking_path_oia/PATHFIRA.mp4
+    - video/walking_path_megaloxori_pirgos_emporio/PATH_MEG_PIRGOS.mp4
+    - images/stars.png
+    - images/main2.png
+    - images/instagram.png
+    - images/twitter.png
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg

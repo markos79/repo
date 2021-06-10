@@ -1,7 +1,6 @@
 import 'dart:typed_data';
 import 'dart:async';
 
-import 'package:equatable/equatable.dart';
 import "package:flutter/material.dart";
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:flutter/services.dart';
@@ -14,8 +13,8 @@ import '../tools/tools.dart';
 
 const LatLng _center = const LatLng(36.391318013479655, 25.414449798616467);
 LatLng newPosition;
-CameraPosition newCameraPosition =
-CameraPosition(target: LatLng(36.391318013479655, 25.414449798616467), zoom: 11);
+CameraPosition newCameraPosition = CameraPosition(
+    target: LatLng(36.391318013479655, 25.414449798616467), zoom: 11);
 
 Set<Marker> markers = {};
 int _index = 0;
@@ -44,10 +43,10 @@ class _MainScreenState2 extends State<MainMapScreen2> {
 
   void getMarkers() async {
     final Uint8List userMarkerIcon =
-    await getBytesFromAsset('images/normalMarker.png', 75);
+        await getBytesFromAsset('images/normalMarker.png', 75);
 
     final Uint8List selectedMarkerIcon =
-    await getBytesFromAsset('images/selectedMarker.png', 100);
+        await getBytesFromAsset('images/selectedMarker.png', 100);
 
     markers = {};
     Tools.markersList2.forEach((element) {
@@ -84,7 +83,6 @@ class _MainScreenState2 extends State<MainMapScreen2> {
     _controller.complete(controller);
   }
 
-
   @override
   void initState() {
     super.initState();
@@ -95,10 +93,9 @@ class _MainScreenState2 extends State<MainMapScreen2> {
     super.dispose();
   }
 
-
   @override
   Widget build(BuildContext context) {
-    markers ={};
+    markers = {};
     return StreamBuilder<int>(
         initialData: 0,
         builder: (context, snapshot) {
@@ -143,13 +140,13 @@ class _MainScreenState2 extends State<MainMapScreen2> {
                                         Tools.markersList2[index].latitude),
                                     double.tryParse(
                                         Tools.markersList2[index].longitude));
-                                newCameraPosition =
-                                    CameraPosition(target: newPosition, zoom: 14);
+                                newCameraPosition = CameraPosition(
+                                    target: newPosition, zoom: 14);
                               }
                               getMarkers();
                               mapController
                                   .animateCamera(CameraUpdate.newCameraPosition(
-                                  newCameraPosition))
+                                      newCameraPosition))
                                   .then((val) {
                                 setState(() {});
                               });
@@ -166,7 +163,7 @@ class _MainScreenState2 extends State<MainMapScreen2> {
                                       BoxShadow(
                                         offset: Offset(0.5, 0.5),
                                         color:
-                                        Color(0xff000000).withOpacity(0.12),
+                                            Color(0xff000000).withOpacity(0.12),
                                         blurRadius: 20,
                                       ),
                                     ],
@@ -176,7 +173,10 @@ class _MainScreenState2 extends State<MainMapScreen2> {
                                     children: <Widget>[
                                       Padding(
                                         padding: const EdgeInsets.only(
-                                            left: 9, top: 7, bottom: 7, right: 9),
+                                            left: 9,
+                                            top: 7,
+                                            bottom: 7,
+                                            right: 9),
                                         child: Container(
                                           height: 86.00,
                                           width: 86.00,
@@ -187,7 +187,7 @@ class _MainScreenState2 extends State<MainMapScreen2> {
                                                   Tools.markersList2[i].image),
                                             ),
                                             borderRadius:
-                                            BorderRadius.circular(5.00),
+                                                BorderRadius.circular(5.00),
                                           ),
                                         ),
                                       ),
@@ -196,7 +196,7 @@ class _MainScreenState2 extends State<MainMapScreen2> {
                                             top: 12, right: 0.0),
                                         child: Column(
                                           crossAxisAlignment:
-                                          CrossAxisAlignment.start,
+                                              CrossAxisAlignment.start,
                                           mainAxisSize: MainAxisSize.max,
                                           children: <Widget>[
                                             Wrap(
@@ -218,7 +218,7 @@ class _MainScreenState2 extends State<MainMapScreen2> {
                                                     Tools.markersList2[i]
                                                         .description,
                                                     overflow:
-                                                    TextOverflow.ellipsis,
+                                                        TextOverflow.ellipsis,
                                                     maxLines: 4,
                                                     style: TextStyle(
                                                       fontFamily: "Montserrat",

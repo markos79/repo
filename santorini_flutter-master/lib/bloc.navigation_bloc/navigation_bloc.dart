@@ -4,19 +4,23 @@ import 'package:santorini_flutter/pages/contactuspage.dart';
 import 'package:santorini_flutter/pages/followuspage.dart';
 import 'package:santorini_flutter/pages/ratethisapppage.dart';
 import 'package:santorini_flutter/pages/termsofusepage.dart';
+import 'package:santorini_flutter/pages/morepaths.dart';
 import 'package:santorini_flutter/ui/volcaloes_map.dart';
 import 'package:santorini_flutter/ui/churches_map.dart';
 import '../pages/listpage.dart';
+import '../pages/favorites.dart';
 import 'package:santorini_flutter/ui/homepage.dart';
 
 enum NavigationEvents {
   HomePageClickedEvent,
   ListClickedEvent,
+  FavoritesClickedEvent,
   AboutthisappClickedEvent,
   RatethisappClickedEvent,
   FollowusClickedEvent,
   TermsofuseClickedEvent,
   ContactusClickedEvent,
+  MorePathsEvent,
   MapClickedEvent
 }
 
@@ -25,16 +29,19 @@ abstract class NavigationStates {}
 class NavigationBloc extends Bloc<NavigationEvents, NavigationStates> {
   @override
   // TODO: implement initialState
-  NavigationStates get initialState => HomePage();
+  NavigationStates get initialState => MainMapScreen();
 
   @override
   Stream<NavigationStates> mapEventToState(NavigationEvents event) async* {
     switch (event) {
-      case NavigationEvents.HomePageClickedEvent:
-        yield HomePage();
+      case NavigationEvents.MapClickedEvent:
+        yield MainMapScreen();
         break;
       case NavigationEvents.ListClickedEvent:
         yield ListPage();
+        break;
+      case NavigationEvents.FavoritesClickedEvent:
+        yield FavoritesPage();
         break;
       case NavigationEvents.AboutthisappClickedEvent:
         yield Aboutthisapppage();
@@ -51,8 +58,11 @@ class NavigationBloc extends Bloc<NavigationEvents, NavigationStates> {
       case NavigationEvents.ContactusClickedEvent:
         yield Contactusppage();
         break;
+      case NavigationEvents.MorePathsEvent:
+        yield MorePathspage();
+        break;
       case NavigationEvents.MapClickedEvent:
-        // TODO: Handle this case.
+      // TODO: Handle this case.
         break;
     }
   }

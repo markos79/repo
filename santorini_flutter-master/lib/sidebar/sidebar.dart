@@ -51,6 +51,7 @@ class _SideBarState extends State<SideBar> with SingleTickerProviderStateMixin<S
   @override
   Widget build(BuildContext context) {
     final screenWidth = MediaQuery.of(context).size.width;
+    final screenHeight = MediaQuery.of(context).size.height;
 
     return StreamBuilder<bool>(
       initialData: false,
@@ -58,53 +59,53 @@ class _SideBarState extends State<SideBar> with SingleTickerProviderStateMixin<S
       builder: (context, isSideBarOpenedAsync) {
         return AnimatedPositioned(
           duration: _animationDuration,
-          top: 0,
-          bottom: 0,
+          top: isSideBarOpenedAsync.data ? 0 : screenHeight - 150,
+          bottom: isSideBarOpenedAsync.data ? 0 : -screenHeight,
           left: isSideBarOpenedAsync.data ? 0 : -screenWidth,
-          right: isSideBarOpenedAsync.data ? 0 : screenWidth - 45,
+          right: isSideBarOpenedAsync.data ? 0 : screenWidth - 35,
           child: Row(
             children: <Widget>[
               Expanded(
                 child: Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 20),
-                  color: const Color(0xFF3b5188),
+                  padding: const EdgeInsets.symmetric(horizontal: 10),
+                  decoration: BoxDecoration(
+                    gradient: LinearGradient(
+                      begin: Alignment.topRight,
+                      end: Alignment.bottomLeft,
+                      colors: [
+                        Color(0xFF6f94fa),
+                        Color(0xFF9258e8),
+                      ],
+                    ),
+                      borderRadius: BorderRadius.all(Radius.circular(20))
+                  ),
                   child: Column(
                     children: <Widget>[
                       SizedBox(
-                        height: 60,
-                      ),
-                      ListTile(
-                        title: Text(
-                          "Santorini Culture App",
-                          style: TextStyle(color: Colors.white, fontSize: 30, fontWeight: FontWeight.w800),
-                        ),
-                        leading: CircleAvatar(
-                          backgroundColor: Colors.transparent,
-                          backgroundImage: AssetImage("images/logo.png"),
-                          radius: 40,
-                        ),
-                      ),
-                      Divider(
-                        height: 33,
-                        thickness: 0.5,
-                        color: Colors.white.withOpacity(0.3),
-                        indent: 22,
-                        endIndent: 32,
+                        height: 40,
                       ),
                       MenuItem(
                         icon: Icons.home,
                         title: "Home",
                         onTap: () {
                           onIconPressed();
-                          BlocProvider.of<NavigationBloc>(context).add(NavigationEvents.HomePageClickedEvent);
+                          BlocProvider.of<NavigationBloc>(context).add(NavigationEvents.MapClickedEvent);
                         },
                       ),
                       MenuItem(
-                        icon: Icons.map,
+                        icon: Icons.list,
                         title: "List",
                         onTap: () {
                           onIconPressed();
                           BlocProvider.of<NavigationBloc>(context).add(NavigationEvents.ListClickedEvent);
+                        },
+                      ),
+                      MenuItem(
+                        icon: Icons.favorite,
+                        title: "Favorites",
+                        onTap: () {
+                          onIconPressed();
+                          BlocProvider.of<NavigationBloc>(context).add(NavigationEvents.FavoritesClickedEvent);
                         },
                       ),
                       MenuItem(
@@ -148,11 +149,19 @@ class _SideBarState extends State<SideBar> with SingleTickerProviderStateMixin<S
                         },
                       ),
                       MenuItem(
-                        icon: Icons.exit_to_app,
-                        title: "Exit",
+                        icon: Icons.auto_stories,
+                        title: "More Paths",
                         onTap: () {
-                        onIconPressed();
-                          exit(0);}
+                          onIconPressed();
+                          BlocProvider.of<NavigationBloc>(context).add(NavigationEvents.MorePathsEvent);
+                        },
+                      ),
+                      MenuItem(
+                          icon: Icons.exit_to_app,
+                          title: "Exit",
+                          onTap: () {
+                            onIconPressed();
+                            exit(0);}
                       ),
                     ],
                   ),
@@ -168,9 +177,9 @@ class _SideBarState extends State<SideBar> with SingleTickerProviderStateMixin<S
                     clipper: CustomMenuClipper(),
                     child: Container(
                       width: 35,
-                      height: 110,
-                      color: Color(0xFF3d5389),
-                      alignment: Alignment.centerLeft,
+                      height: 70,
+                      color: Color(0xFF6f94fa),
+                      alignment: Alignment.center,
                       child: AnimatedIcon(
                         progress: _animationController.view,
                         icon: AnimatedIcons.menu_close,

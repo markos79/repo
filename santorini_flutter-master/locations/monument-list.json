@@ -1,0 +1,1334 @@
+[
+  {
+    "cat_id": 1,
+    "img": "images/pins/archaelogical.png",
+    "monuments": [
+      {
+        "pin": {
+          "pin_id": 2,
+          "texture": "images/pins/archaelogical.png",
+          "pos": {
+            "x": -1.84,
+            "y": 6.42,
+            "z": 70.12
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.35179,
+        "lon": 25.40343,
+        "id": 2,
+        "img": ["a1-min.jpg", "a2-min.jpg", "a3-min.jpg", "a4-min.jpg", "a5-min.jpg", "a6-min.jpg", "a7-min.jpg", "a8-min.jpg", "a9-min.jpg", "a10-min.jpg", "a11-min.jpg", "a12-min.jpg", "a13-min.jpg"],
+        "path": "akrotiri/",
+        "video": "akrotitri.mp4",
+        "panorama": "akrotiri.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Προϊστορικός Οικισμός Ακρωτηρίου Θήρας",
+              "subtitle": "Αρχαιολογικός Χώρος",
+              "short_descr": "Ένας από τους πιο σημαντικούς οικισμούς του Αιγαίου και ένας από τους πιο διάσημους αρχαιολογικούς χώρους της Ελλάδας.",
+              "long_descr": "Ένας από τους πιο σημαντικούς οικισμούς του Αιγαίου και ένας από τους πιο διάσημους αρχαιολογικούς χώρους της Ελλάδας. Οι πρώτες εγκαταστάσεις στο Ακρωτήρι χρονολογούνται από την Ύστερη Νεολιθική Εποχή (4η χιλιετία π.Χ.),  ενώ ο οικισμός που διαμορφώθηκε χρόνια μετά, αναδείχθηκε σε ένα από τα πιο σημαντικά αστικά κέντρα και λιμάνια του Αιγαίου. Η μεγάλη του έκταση, περίπου 200 στρέμματα, η άριστη πολεοδομική του οργάνωση, οι εμπορικές  συναλλαγές  με τον Μινωικό Πολιτισμό - Κρήτη, η πληθώρα οικιστικών  ευρημάτων καθώς και οι ξεχωριστές τοιχογραφίες αναδεικνύουν την ιστορική και πολιτισμική ανάπτυξη του χώρου. Η ίδια αιτία που κατέστρεψε τον προϊστορικό οικισμό του Ακρωτηρίου ήταν η ίδια αιτία που διατήρησε ανέπαφα τα ευρήματα μέχρι και τώρα, η  ηφαιστειακή έκρηξη που έγινε στα μέσα του 17ου αι π.X Στοιχεία για την κατοίκηση του ακρωτηρίου άρχισαν να έρχονται στο φως στα μέσα του 19ου αιώνα κυρίως από ξένες αρχαιολογικές ανασκαφές. Οι συστηματικές όμως ανασκαφές ξεκίνησαν το 1967 από τον καθηγητή Αρχαιολογίας Σπύρο Μαρινάτο, ενώ συνεχίζονται μέχρι σήμερα από τον Καθηγητή Χρίστο Ντούμα."
+            },
+            "en": {
+              "title": "Prehistoric Settlement of Akrotiri Thira",
+              "subtitle": "Archaeological Site",
+              "short_descr": "One of the most important settlements of the Aegean and one of the most famous archaeological sites of Greece.",
+              "long_descr": "Archeological Site of Ancient Thira: the ancient city, is located on Mesa Vouno mountain, 396 meters above sea level. It was founded in the 9th century BC by Dorian colonists led by Theras and remained inhabited until the Early Byzantine period. The preserved ruins date primarily from the Hellenistic and Roman periods of the city's history. The town of Ancient Thira was founded by King Thiras of Sparta, whose name was given on the island, during the second important period of flourishing. Located on the top of the mountain dividing Kamari from Perissa, Ancient Thira is hidden from your eyes. You must drive a zigzag road or walk a path for an hour to reach the top, from which you must continue walking until you reach the town. Important monuments include: The Sanctuary of Artemidoros, the Agora, the royal Stoa  and the Theater"
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 10,
+          "texture": "images/pins/archaelogical.png",
+          "pos": {
+            "x": 69.86,
+            "y": 8.24,
+            "z": 63.92
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.357737,
+        "lon": 25.475845,
+        "id": 10,
+        "img": ["d1.jpg", "d2.jpg", "d3.jpg", "d4.jpg", "d5.jpg", "d6.jpg", "d7.jpg", "d8.jpg"],
+        "path": "palaiochristianiki/",
+        "video": "BASILICA_ST_EIRINI.mp4",
+        "panorama": "PALAIOXRISTIANIKI WIDE SMALL PANORAMA.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Παλαιοχριστιανική βασιλική Αγίας Ειρήνης -  Περίσσα",
+              "subtitle": "Αρχαιολογικός Χώρος",
+              "short_descr": "Μία από τις πιο άγνωστες αρχαιολογικές περιοχές του νησιού.",
+              "long_descr": "Μία από τις πιο άγνωστες αρχαιολογικές περιοχές του νησιού, η εκκλησία της Αγίας Ειρήνης στην Περίσσα. Θεωρείται μία από τις δύο εκκλησίες από τις οποίες προήλθε το όνομα Σαντορίνη (Σαντορίνη – Santa Irene). H ίδρυσή της προσδιορίζεται στα τέλη του 5ου αιω. Θεωρείται η μεγαλύτερη βασιλική στο νησί για την οποία παραγγέλθηκε ο διάκοσμος από την Κωνσταντίνουπολη. Κατά τη διάρκεια των ανασκαφών έχουν βρεθεί και αρχαία νομίσματα, ενώ φαίνεται να έχει καταστραφεί  και από την έκρηξη του ηφαιστείου του 726 μ.Χ. Θεωρείται ίσως η αιτία από την οποία προήλθε το όνομα Σαντορίνη. Ταυτόχρονα, βρίσκεται λίγα μέτρα από την αρχή του μονοπατιού προς την Αρχαία Θήρα."
+            },
+            "en": {
+              "title": "Early Christian Basilica of Agia Irini (Saint Irene) - Perissa",
+              "subtitle": "Archaeological Site",
+              "short_descr": "One of the most unknown archaeological site of the island.",
+              "long_descr": "One of the most unknown archaeological site of the island, is the church of Agia Irini (Saint Irene), in Perissa. It is considered one of the two churches from which the name Santorini originated (Santorini - Santa Irene). Its foundation dates to the late 5th century. It is the largest basilica temple on the island, the decoration of which was ordered from Constantinople. Ancient coins have also been found during excavations, and it appears to have been destroyed by the volcanic eruption of the 726 AD. This is probably how the name Santorini came up. At the same time, it is a few meters far from the beginning of the path to Ancient Thira."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cat_id": 2,
+    "img": "images/pins/churches.png",
+    "monuments": [
+      {
+        "pin": {
+          "pin_id": 4,
+          "texture": "images/pins/churches.png",
+          "pos": {
+            "x": 29.34,
+            "y": 8.24,
+            "z": -12.88
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.41694,
+        "lon": 25.43169,
+        "id": 4,
+        "img": ["b1.jpg", "b2.jpg", "b3.jpg", "b4.jpg", "b5.jpg", "b6.jpg", "b7.jpg", "b8.jpg", "b9.jpg", "b10.jpg","b11.jpg","b12.jpg"],
+        "path": "orthodox_ypapanti/",
+        "video": "ORTHODOX_CATHEDRAL.mp4",
+        "panorama": "ypapanti_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Καθεδρικός Ναός Υπαπαντής",
+              "subtitle": "Εκκλησία",
+              "short_descr": "Η ορθόδοξη Μητρόπολη του νησιού που βρίσκεται στο υψηλότερο σημείο των Φηρών.",
+              "long_descr": "Η ορθόδοξη Μητρόπολη του νησιού που βρίσκεται στο υψηλότερο σημείο των Φηρών. Αρχικά, όταν ο οικισμός των Φηρών άρχισε να αναπτύσσεται, έπρεπε να βρεθεί κάποιος ναός να χρηματίσει ως μητρόπολη των ορθοδόξων κατοίκων. Γι αυτό το λόγο, αξιοποιήθηκε ο μικρός ναός της Υπαπαντής του Σωτήρα, που ιδρύθηκε από τον Μάρκο Μπελλώνια, θηραίο έμπορα των Φηρών. Ο πληθυσμός όμως της πόλης καθώς και οι λατρευτικές ανάγκες ολοένα και αυξανόταν και για αυτό το λόγο αποφάσισαν να χτίσουν έναν μεγαλύτερο ναό. Ο σεισμός του 1956, όμως κατέστρεψε την εκκλησία  και ουσιαστικά η τελευταία του φάση είναι ο ναός που υπάρχει μέχρι και σήμερα. Η παράδοση αναφέρει, ότι η εικόνα της Παναγίας που υπάρχει ακόμα στον ναό,  προέρχεται από την Αγία Σοφία της Κωνσταντίνουπολης. Μερικά από τα σημεία που ξεχωρίζουν σήμερα, είναι ο ολόλευκος ναός με τις καμάρες του, το ψηφιδωτό στον προαύλιο χώρο του και οι εντυπωσιακές αγιογραφίες που υπάρχουν εσωτερικά."
+            },
+            "en": {
+              "title": "Orthodox Cathedral",
+              "subtitle": "Church",
+              "short_descr": "The Orthodox Cathedral of the island is located at the highest point of Fira.",
+              "long_descr": "When Fira first began to grow, one needed to find a temple to fund as a metropolis of Orthodox residents. As a result, the small Candlemas of the Lord temple (Ipapanti tou Sotiros), founded by Mark Bellonias, a fierce merchant in Fira, was used.   However, the city's population and the need for worship were growing, so they decided to construct a larger temple. The earthquake of 1956, on the other hand, destroyed the church, and the church that exists today is essentially its last phase. The icon of the Virgin Mary which still stands in the church is said to have come from the Saint Sophia (Hagia Sofia) in Constantinople. The whitewashed temple with its arches, the mosaic in its courtyard, and the impressive interior paintings are just a few of its highlights today."
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 8,
+          "texture": "images/pins/churches.png",
+          "pos": {
+            "x": 49.58,
+            "y": 8.24,
+            "z": 31.84
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.3775,
+        "lon": 25.46405,
+        "id": 8,
+        "img": ["c1.jpg", "c2.jpg", "c3.jpg", "c4.jpg", "c5.jpg", "c6.jpg", "c7.jpg", "c8.jpg", "c9.jpg", "c10.jpg","c11.jpg","c12.jpg"],
+        "path": "panagia_episkopi/",
+        "video": "PANAGIAEPISKOPI.mp4",
+        "panorama": "PANAGIA EPISKOPI PANORAMIC 01 SMALL PANORAMIC.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Παναγία η Επισκοπή",
+              "subtitle": "Εκκλησία",
+              "short_descr": "Η εκκλησία της Παναγίας Επισκοπής, θεωρείται το πιο σημαντικό εκκλησιαστικό μνημείο της Σαντορίνης.",
+              "long_descr": "Η εκκλησία της Παναγίας Επισκοπής, θεωρείται το πιο σημαντικό εκκλησιαστικό μνημείο της Σαντορίνης. Χτίστηκε από τον αυτοκράτορα Αλέξιο Κομνηνό, ενώ διαδραμάτισε ρόλο στην κοινωνική, οικονομική ζωή του νησιού, Η εκκλησία της Επισκοπής ή η Παναγιά της Γωνιάς, χτίστηκε από τον αυτοκράτορα Αλέξιο Κομνηνό τον 11ο αιώνα. Κατά την πάροδο των χρόνων, κυριεύεται από διάφορους κατακτητές ενώ ακόμα και οι έριδες μεταξύ ορθοδόξων και καθολικών διαδραματίζουν σημαντικό ρόλο στην ιστορία του ναού. Από πλευράς αρχιτεκτονικής, ενσωμάτωσε στοιχεία τόσο από την Αρχαία Θήρα, τον δεύτερο πιο σημαντικό αρχαιολογικό χώρο του νησιού,  όσο και από τον περιβάλλοντα χώρο του ναού. Ήταν αναμφίβολα διακοσμημένη με τοιχογραφίες που έγιναν με εντολή του αυτοκράτορα. Τιμάει την Κοίμηση της Θεοτόκου, και θεωρείται ένα από τα πιο σημαντικά πανηγύρια για τους ντόπιους."
+            },
+            "en": {
+              "title": "Church of Episkopi",
+              "subtitle": "Church",
+              "short_descr": "The church of Panagia Episkopi is considered to be the most important ecclesiastical monument of Santorini.",
+              "long_descr": "The Episkopi - Church of Assumption of Virgin Mary  at Mesa Gonia is the most important Byzantine monument in Thira. The Emperor of Byzantium Alexios I Comnenos (1081 – 1118) is acknowledged as the founder and donor of the church. Over the years has been dominated by various conquerors.  The church is not only known for its ecclesiastical architecture. It incorporates parts from Ancient Thira and the surrounding area.  The interior of Episkopi was decorated completely with wall – paintings and hagiography. A number of important icons can be seen in the church although it bears to mention that 26 of the finest works were stolen in 1982 and have never be found. The second part of the name (Episkopi) means \"episcopal\". The church of Panagia Episkopi was the seat of the Orthodox diocese of Santorini until 1207 and from 1537 to 1827. It honors the Assumption of Virgin Mary and is considered to be one of the most important festivals."
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 14,
+          "texture": "images/pins/churches.png",
+          "pos": {
+            "x": 29.34,
+            "y": 8.24,
+            "z": -12.88
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.42123,
+        "lon": 25.43093,
+        "id": 14,
+        "img": ["catholic1.jpg", "catholic2.jpg", "catholic3.jpg", "catholic4.jpg", "catholic5.jpg", "catholic6.jpg", "catholic7.jpg", "catholic8.jpg", "catholic9.jpg", "catholic10.jpg","catholic11.jpg","catholic12.jpg"],
+        "path": "catholic/",
+        "video": "CATHOLIC_CATHEDRAL.mp4",
+        "panorama": "catholic_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Καθεδρικός Ναός Αγίου Ιωάννη του Βαπτιστή",
+              "subtitle": "Εκκλησία",
+              "short_descr": "Η ορθόδοξη Μητρόπολη του νησιού που βρίσκεται στο υψηλότερο σημείο των Φηρών.",
+              "long_descr": "Η ορθόδοξη Μητρόπολη του νησιού που βρίσκεται στο υψηλότερο σημείο των Φηρών. Αρχικά, όταν ο οικισμός των Φηρών άρχισε να αναπτύσσεται, έπρεπε να βρεθεί κάποιος ναός να χρηματίσει ως μητρόπολη των ορθοδόξων κατοίκων. Γι αυτό το λόγο, αξιοποιήθηκε ο μικρός ναός της Υπαπαντής του Σωτήρα, που ιδρύθηκε από τον Μάρκο Μπελλώνια, θηραίο έμπορα των Φηρών. Ο πληθυσμός όμως της πόλης καθώς και οι λατρευτικές ανάγκες ολοένα και αυξανόταν και για αυτό το λόγο αποφάσισαν να χτίσουν έναν μεγαλύτερο ναό. Ο σεισμός του 1956, όμως κατέστρεψε την εκκλησία  και ουσιαστικά η τελευταία του φάση είναι ο ναός που υπάρχει μέχρι και σήμερα. Η παράδοση αναφέρει, ότι η εικόνα της Παναγίας που υπάρχει ακόμα στον ναό,  προέρχεται από την Αγία Σοφία της Κωνσταντίνουπολης. Μερικά από τα σημεία που ξεχωρίζουν σήμερα, είναι ο ολόλευκος ναός με τις καμάρες του, το ψηφιδωτό στον προαύλιο χώρο του και οι εντυπωσιακές αγιογραφίες που υπάρχουν εσωτερικά."
+            },
+            "en": {
+              "title": "Catholic Cathedral",
+              "subtitle": "Church",
+              "short_descr": "About 500 inhabitants as well as churches scattered on the island, constitute the catholic community of Santorini.",
+              "long_descr": "About 500 inhabitants as well as churches scattered on the island, constitute the catholic community of Santorini. The homonymous area in Fira stands out just outside the cable car where we meet the Catholic Diocese and the Monastery. The Cathedral is dedicated to Saint John, the Baptist. The church was greatly damaged by the earthquake in 1956 but it was renovated back in 1975. The monastery of Dominican Sisters was founded in Santorini in 1596 by a young Greek woman of the island. Currently,  the community is made up of Sisters of various nationalities. "
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 15,
+          "texture": "images/pins/churches.png",
+          "pos": {
+            "x": 29.34,
+            "y": 8.24,
+            "z": -12.88
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.36853,
+        "lon": 25.46339,
+        "id": 15,
+        "img": ["hlia1.jpg", "hlia2.jpg", "hlia3.jpg", "hlia4.jpg", "hlia5.jpg", "hlia6.jpg", "hlia7.jpg", "hlia8.jpg", "hlia9.jpg", "hlia10.jpg","hlia11.jpg","hlia12.jpg"],
+        "path": "prophet_elias/",
+        "video": "prophet_elias.mp4",
+        "panorama": "prophet_elias_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Καθεδρικός Ναός Αγίου Ιωάννη του Βαπτιστή",
+              "subtitle": "Εκκλησία",
+              "short_descr": "Η ορθόδοξη Μητρόπολη του νησιού που βρίσκεται στο υψηλότερο σημείο των Φηρών.",
+              "long_descr": "Η ορθόδοξη Μητρόπολη του νησιού που βρίσκεται στο υψηλότερο σημείο των Φηρών. Αρχικά, όταν ο οικισμός των Φηρών άρχισε να αναπτύσσεται, έπρεπε να βρεθεί κάποιος ναός να χρηματίσει ως μητρόπολη των ορθοδόξων κατοίκων. Γι αυτό το λόγο, αξιοποιήθηκε ο μικρός ναός της Υπαπαντής του Σωτήρα, που ιδρύθηκε από τον Μάρκο Μπελλώνια, θηραίο έμπορα των Φηρών. Ο πληθυσμός όμως της πόλης καθώς και οι λατρευτικές ανάγκες ολοένα και αυξανόταν και για αυτό το λόγο αποφάσισαν να χτίσουν έναν μεγαλύτερο ναό. Ο σεισμός του 1956, όμως κατέστρεψε την εκκλησία  και ουσιαστικά η τελευταία του φάση είναι ο ναός που υπάρχει μέχρι και σήμερα. Η παράδοση αναφέρει, ότι η εικόνα της Παναγίας που υπάρχει ακόμα στον ναό,  προέρχεται από την Αγία Σοφία της Κωνσταντίνουπολης. Μερικά από τα σημεία που ξεχωρίζουν σήμερα, είναι ο ολόλευκος ναός με τις καμάρες του, το ψηφιδωτό στον προαύλιο χώρο του και οι εντυπωσιακές αγιογραφίες που υπάρχουν εσωτερικά."
+            },
+            "en": {
+              "title": "Monastery of Prophet Elias",
+              "subtitle": "Church",
+              "short_descr": "The Prophet Elias Mountain is the highest point oF the island.",
+              "long_descr": "The Prophet Elias Mountain is the highest point oF the island. It is 567 meters above sea level and, along with Mesa Vouno, the hill of Gavrilos (Emporeios), and the Monolithos rock, forms Santorini's pre-volcanic segment. The Monastery of Profitis  Elias at its apex is one of the island's oldest and most significant Orthodox landmarks. It was founded in 1711, was built in the style of a fortress, and it played an important role in the community's cultural life."
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 16,
+          "texture": "images/pins/churches.png",
+          "pos": {
+            "x": 29.34,
+            "y": 8.24,
+            "z": -12.88
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.45131,
+        "lon": 25.423,
+        "id": 16,
+        "img": ["antonios1.jpg", "antonios2.jpg", "antonios3.jpg", "antonios4.jpg", "antonios5.jpg", "antonios6.jpg", "antonios7.jpg", "antonios8.jpg", "antonios9.jpg", "antonios10.jpg","antonios11.jpg","antonios12.jpg"],
+        "path": "saint_antonios/",
+        "video": "saint_antonios.mp4",
+        "panorama": "saint_antonios_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Καθεδρικός Ναός Αγίου Ιωάννη του Βαπτιστή",
+              "subtitle": "Εκκλησία",
+              "short_descr": "Η ορθόδοξη Μητρόπολη του νησιού που βρίσκεται στο υψηλότερο σημείο των Φηρών.",
+              "long_descr": "Η ορθόδοξη Μητρόπολη του νησιού που βρίσκεται στο υψηλότερο σημείο των Φηρών. Αρχικά, όταν ο οικισμός των Φηρών άρχισε να αναπτύσσεται, έπρεπε να βρεθεί κάποιος ναός να χρηματίσει ως μητρόπολη των ορθοδόξων κατοίκων. Γι αυτό το λόγο, αξιοποιήθηκε ο μικρός ναός της Υπαπαντής του Σωτήρα, που ιδρύθηκε από τον Μάρκο Μπελλώνια, θηραίο έμπορα των Φηρών. Ο πληθυσμός όμως της πόλης καθώς και οι λατρευτικές ανάγκες ολοένα και αυξανόταν και για αυτό το λόγο αποφάσισαν να χτίσουν έναν μεγαλύτερο ναό. Ο σεισμός του 1956, όμως κατέστρεψε την εκκλησία  και ουσιαστικά η τελευταία του φάση είναι ο ναός που υπάρχει μέχρι και σήμερα. Η παράδοση αναφέρει, ότι η εικόνα της Παναγίας που υπάρχει ακόμα στον ναό,  προέρχεται από την Αγία Σοφία της Κωνσταντίνουπολης. Μερικά από τα σημεία που ξεχωρίζουν σήμερα, είναι ο ολόλευκος ναός με τις καμάρες του, το ψηφιδωτό στον προαύλιο χώρο του και οι εντυπωσιακές αγιογραφίες που υπάρχουν εσωτερικά."
+            },
+            "en": {
+              "title": "Church of Saint Antonios (Atragoudistos) – Imerovigli",
+              "subtitle": "Church",
+              "short_descr": "The church was constructed around 1050.",
+              "long_descr": "The church was carved into the rock, and frescoes from 1750 can be found on the walls of the volcano inside the church. The church was constructed around 1050."
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 17,
+          "texture": "images/pins/churches.png",
+          "pos": {
+            "x": 29.34,
+            "y": 8.24,
+            "z": -12.88
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.39918,
+        "lon": 25.38032,
+        "id": 17,
+        "img": ["nicolas1.jpg", "nicolas2.jpg", "nicolas3.jpg", "nicolas4.jpg", "nicolas5.jpg", "nicolas6.jpg", "nicolas7.jpg", "nicolas8.jpg", "nicolas9.jpg", "nicolas10.jpg","nicolas11.jpg","nicolas12.jpg"],
+        "path": "saint_nicolas/",
+        "video": "saint_nicolas.mp4",
+        "panorama": "saint_nicolas_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Καθεδρικός Ναός Αγίου Ιωάννη του Βαπτιστή",
+              "subtitle": "Εκκλησία",
+              "short_descr": "Η ορθόδοξη Μητρόπολη του νησιού που βρίσκεται στο υψηλότερο σημείο των Φηρών.",
+              "long_descr": "Η ορθόδοξη Μητρόπολη του νησιού που βρίσκεται στο υψηλότερο σημείο των Φηρών. Αρχικά, όταν ο οικισμός των Φηρών άρχισε να αναπτύσσεται, έπρεπε να βρεθεί κάποιος ναός να χρηματίσει ως μητρόπολη των ορθοδόξων κατοίκων. Γι αυτό το λόγο, αξιοποιήθηκε ο μικρός ναός της Υπαπαντής του Σωτήρα, που ιδρύθηκε από τον Μάρκο Μπελλώνια, θηραίο έμπορα των Φηρών. Ο πληθυσμός όμως της πόλης καθώς και οι λατρευτικές ανάγκες ολοένα και αυξανόταν και για αυτό το λόγο αποφάσισαν να χτίσουν έναν μεγαλύτερο ναό. Ο σεισμός του 1956, όμως κατέστρεψε την εκκλησία  και ουσιαστικά η τελευταία του φάση είναι ο ναός που υπάρχει μέχρι και σήμερα. Η παράδοση αναφέρει, ότι η εικόνα της Παναγίας που υπάρχει ακόμα στον ναό,  προέρχεται από την Αγία Σοφία της Κωνσταντίνουπολης. Μερικά από τα σημεία που ξεχωρίζουν σήμερα, είναι ο ολόλευκος ναός με τις καμάρες του, το ψηφιδωτό στον προαύλιο χώρο του και οι εντυπωσιακές αγιογραφίες που υπάρχουν εσωτερικά."
+            },
+            "en": {
+              "title": "Church of Saint Nicolas (Hot Springs – Palea Kameni)",
+              "subtitle": "Church",
+              "short_descr": "The necessity of so many churches, as well as the importance of the inhabitants' faith, evolves over time based on the geological and social history of the area.",
+              "long_descr": "The necessity of so many churches, as well as the importance of the inhabitants' faith, evolves over time based on the geological and social history of the area. On one hand, modern explosions and on the other hand,  the island's naval history prompted the construction of two small churches, even more  in Kamenes islands’ One dedicated to Saint Nicolas, protector of the seas, in Palea Kameni, right next to the area of hot springs where visitors can swim."
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 18,
+          "texture": "images/pins/churches.png",
+          "pos": {
+            "x": 29.34,
+            "y": 8.24,
+            "z": -12.88
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.39939,
+        "lon": 25.4045,
+        "id": 18,
+        "img": ["taxiarchis1.jpg", "taxiarchis2.jpg", "taxiarchis3.jpg", "taxiarchis4.jpg", "taxiarchis5.jpg", "taxiarchis6.jpg", "taxiarchis7.jpg", "taxiarchis8.jpg", "taxiarchis9.jpg", "taxiarchis10.jpg","taxiarchis11.jpg","taxiarchis12.jpg"],
+        "path": "saint_taxiarchis/",
+        "video": "saint_taxiarchis.mp4",
+        "panorama": "saint_taxiarchis_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Καθεδρικός Ναός Αγίου Ιωάννη του Βαπτιστή",
+              "subtitle": "Εκκλησία",
+              "short_descr": "Η ορθόδοξη Μητρόπολη του νησιού που βρίσκεται στο υψηλότερο σημείο των Φηρών.",
+              "long_descr": "Η ορθόδοξη Μητρόπολη του νησιού που βρίσκεται στο υψηλότερο σημείο των Φηρών. Αρχικά, όταν ο οικισμός των Φηρών άρχισε να αναπτύσσεται, έπρεπε να βρεθεί κάποιος ναός να χρηματίσει ως μητρόπολη των ορθοδόξων κατοίκων. Γι αυτό το λόγο, αξιοποιήθηκε ο μικρός ναός της Υπαπαντής του Σωτήρα, που ιδρύθηκε από τον Μάρκο Μπελλώνια, θηραίο έμπορα των Φηρών. Ο πληθυσμός όμως της πόλης καθώς και οι λατρευτικές ανάγκες ολοένα και αυξανόταν και για αυτό το λόγο αποφάσισαν να χτίσουν έναν μεγαλύτερο ναό. Ο σεισμός του 1956, όμως κατέστρεψε την εκκλησία  και ουσιαστικά η τελευταία του φάση είναι ο ναός που υπάρχει μέχρι και σήμερα. Η παράδοση αναφέρει, ότι η εικόνα της Παναγίας που υπάρχει ακόμα στον ναό,  προέρχεται από την Αγία Σοφία της Κωνσταντίνουπολης. Μερικά από τα σημεία που ξεχωρίζουν σήμερα, είναι ο ολόλευκος ναός με τις καμάρες του, το ψηφιδωτό στον προαύλιο χώρο του και οι εντυπωσιακές αγιογραφίες που υπάρχουν εσωτερικά."
+            },
+            "en": {
+              "title": "Church of Taxiarchis (Nea Kameni)",
+              "subtitle": "Church",
+              "short_descr": "Taxiarchis Church , in the small natural bay that had been created in Nea Kameni.",
+              "long_descr": "Taxiarchis Church , in the small natural bay that had been created in Nea Kameni."
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 19,
+          "texture": "images/pins/churches.png",
+          "pos": {
+            "x": 29.34,
+            "y": 8.24,
+            "z": -12.88
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.41278,
+        "lon": 25.35047,
+        "id": 19,
+        "img": ["kera1.jpg", "kera2.jpg", "kera3.jpg", "kera4.jpg", "kera5.jpg", "kera6.jpg", "kera7.jpg", "kera8.jpg", "kera9.jpg", "kera10.jpg","kera11.jpg","kera12.jpg"],
+        "path": "kera_panagia/",
+        "video": "kera_panagia.mp4",
+        "panorama": "kera_panagia_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Ιερά Μονή Κοιμήσεως της Θεοτόκου",
+              "subtitle": "Εκκλησία",
+              "short_descr": "Η ορθόδοξη Μητρόπολη του νησιού που βρίσκεται στο υψηλότερο σημείο των Φηρών.",
+              "long_descr": "Η ορθόδοξη Μητρόπολη του νησιού που βρίσκεται στο υψηλότερο σημείο των Φηρών. Αρχικά, όταν ο οικισμός των Φηρών άρχισε να αναπτύσσεται, έπρεπε να βρεθεί κάποιος ναός να χρηματίσει ως μητρόπολη των ορθοδόξων κατοίκων. Γι αυτό το λόγο, αξιοποιήθηκε ο μικρός ναός της Υπαπαντής του Σωτήρα, που ιδρύθηκε από τον Μάρκο Μπελλώνια, θηραίο έμπορα των Φηρών. Ο πληθυσμός όμως της πόλης καθώς και οι λατρευτικές ανάγκες ολοένα και αυξανόταν και για αυτό το λόγο αποφάσισαν να χτίσουν έναν μεγαλύτερο ναό. Ο σεισμός του 1956, όμως κατέστρεψε την εκκλησία  και ουσιαστικά η τελευταία του φάση είναι ο ναός που υπάρχει μέχρι και σήμερα. Η παράδοση αναφέρει, ότι η εικόνα της Παναγίας που υπάρχει ακόμα στον ναό,  προέρχεται από την Αγία Σοφία της Κωνσταντίνουπολης. Μερικά από τα σημεία που ξεχωρίζουν σήμερα, είναι ο ολόλευκος ναός με τις καμάρες του, το ψηφιδωτό στον προαύλιο χώρο του και οι εντυπωσιακές αγιογραφίες που υπάρχουν εσωτερικά."
+            },
+            "en": {
+              "title": "Monastery of the Assumption of Virgin Mary (Kera Panagia) – Thirassia",
+              "subtitle": "Church",
+              "short_descr": "Monastery of Dormition of Virgin Mary ( Kera Panagia – Thirassia ) is located near the southeastern tip of the island on Cape Tripiti.",
+              "long_descr": "Monastery of Dormition of Virgin Mary ( Kera Panagia – Thirassia ) is located near the southeastern tip of the island on Cape Tripiti. The monastery is located on Cape Tripiti and owes its name to a cave, located at the base of the rock and is open on both sides. The boats pass through an opening which gave the name to the area. The monastery is now deserted. It is worth to mention the impressive and famous is the Russian wood-carved iconostasis of the temple."
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 20,
+          "texture": "images/pins/churches.png",
+          "pos": {
+            "x": 29.34,
+            "y": 8.24,
+            "z": -12.88
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.43699,
+        "lon": 25.33921,
+        "id": 20,
+        "img": ["giatrissa1.jpg", "giatrissa2.jpg", "giatrissa3.jpg", "giatrissa4.jpg", "giatrissa5.jpg", "giatrissa6.jpg", "giatrissa7.jpg", "giatrissa8.jpg", "giatrissa9.jpg", "giatrissa10.jpg","giatrissa11.jpg","giatrissa12.jpg"],
+        "path": "panagia_giatrissa/",
+        "video": "panagia_giatrissa.mp4",
+        "panorama": "panagia_giatrissa_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Παναγιά η Γιάτρισα",
+              "subtitle": "Εκκλησία",
+              "short_descr": "Η ορθόδοξη Μητρόπολη του νησιού που βρίσκεται στο υψηλότερο σημείο των Φηρών.",
+              "long_descr": "Η ορθόδοξη Μητρόπολη του νησιού που βρίσκεται στο υψηλότερο σημείο των Φηρών. Αρχικά, όταν ο οικισμός των Φηρών άρχισε να αναπτύσσεται, έπρεπε να βρεθεί κάποιος ναός να χρηματίσει ως μητρόπολη των ορθοδόξων κατοίκων. Γι αυτό το λόγο, αξιοποιήθηκε ο μικρός ναός της Υπαπαντής του Σωτήρα, που ιδρύθηκε από τον Μάρκο Μπελλώνια, θηραίο έμπορα των Φηρών. Ο πληθυσμός όμως της πόλης καθώς και οι λατρευτικές ανάγκες ολοένα και αυξανόταν και για αυτό το λόγο αποφάσισαν να χτίσουν έναν μεγαλύτερο ναό. Ο σεισμός του 1956, όμως κατέστρεψε την εκκλησία  και ουσιαστικά η τελευταία του φάση είναι ο ναός που υπάρχει μέχρι και σήμερα. Η παράδοση αναφέρει, ότι η εικόνα της Παναγίας που υπάρχει ακόμα στον ναό,  προέρχεται από την Αγία Σοφία της Κωνσταντίνουπολης. Μερικά από τα σημεία που ξεχωρίζουν σήμερα, είναι ο ολόλευκος ναός με τις καμάρες του, το ψηφιδωτό στον προαύλιο χώρο του και οι εντυπωσιακές αγιογραφίες που υπάρχουν εσωτερικά."
+            },
+            "en": {
+              "title": "Panagia Giatrissa – Thirassia ( Lady of Healing)",
+              "subtitle": "Church",
+              "short_descr": "Is located in the village of Potamo in Thirassia and is dedicated to the Nativity of the Virgin Mary.",
+              "long_descr": "Is located in the village of Potamo in Thirassia and is dedicated to the Nativity of the Virgin Mary. The celebration is held on September 21st because the church was built in the 1950s by an old Calendarist family, and the Bishop did not change the feast day because the church's celebration on that date was deeply embedded among the inhabitants."
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 21,
+          "texture": "images/pins/churches.png",
+          "pos": {
+            "x": 29.34,
+            "y": 8.24,
+            "z": -12.88
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.45786,
+        "lon": 25.39688,
+        "id": 21,
+        "img": ["seven1.jpg", "seven2.jpg", "seven3.jpg", "seven4.jpg", "seven5.jpg", "seven6.jpg", "seven7.jpg", "seven8.jpg", "seven9.jpg", "seven10.jpg","seven11.jpg","seven12.jpg"],
+        "path": "seven/",
+        "video": "seven.mp4",
+        "panorama": "seven_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Εκκλησάκι των Αγίων Εφτά Παίδων",
+              "subtitle": "Εκκλησία",
+              "short_descr": "Η ορθόδοξη Μητρόπολη του νησιού που βρίσκεται στο υψηλότερο σημείο των Φηρών.",
+              "long_descr": "Η ορθόδοξη Μητρόπολη του νησιού που βρίσκεται στο υψηλότερο σημείο των Φηρών. Αρχικά, όταν ο οικισμός των Φηρών άρχισε να αναπτύσσεται, έπρεπε να βρεθεί κάποιος ναός να χρηματίσει ως μητρόπολη των ορθοδόξων κατοίκων. Γι αυτό το λόγο, αξιοποιήθηκε ο μικρός ναός της Υπαπαντής του Σωτήρα, που ιδρύθηκε από τον Μάρκο Μπελλώνια, θηραίο έμπορα των Φηρών. Ο πληθυσμός όμως της πόλης καθώς και οι λατρευτικές ανάγκες ολοένα και αυξανόταν και για αυτό το λόγο αποφάσισαν να χτίσουν έναν μεγαλύτερο ναό. Ο σεισμός του 1956, όμως κατέστρεψε την εκκλησία  και ουσιαστικά η τελευταία του φάση είναι ο ναός που υπάρχει μέχρι και σήμερα. Η παράδοση αναφέρει, ότι η εικόνα της Παναγίας που υπάρχει ακόμα στον ναό,  προέρχεται από την Αγία Σοφία της Κωνσταντίνουπολης. Μερικά από τα σημεία που ξεχωρίζουν σήμερα, είναι ο ολόλευκος ναός με τις καμάρες του, το ψηφιδωτό στον προαύλιο χώρο του και οι εντυπωσιακές αγιογραφίες που υπάρχουν εσωτερικά."
+            },
+            "en": {
+              "title": "Church of Seven Children of Ephesus – Oia",
+              "subtitle": "Church",
+              "short_descr": "The church is located in a rough cave near the Bay of Armeni and represents the cave where the Holy Seven Youths hidden  in Ephesus to avoid persecutions.",
+              "long_descr": "The church is located in a rough cave near the Bay of Armeni and represents the cave where the Holy Seven Youths hidden  in Ephesus to avoid persecutions. Its festival takes place on August 4 commemorating the Assumption of the Saints, and on that day, flagged boats approach the picturesque chapel in one of Oia's most important festivals."
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 22,
+          "texture": "images/pins/churches.png",
+          "pos": {
+            "x": 29.34,
+            "y": 8.24,
+            "z": -12.88
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.41613,
+        "lon": 25.43054,
+        "id": 22,
+        "img": ["minas1.jpg", "minas2.jpg", "minas3.jpg", "minas4.jpg", "minas5.jpg", "minas6.jpg", "minas7.jpg", "minas8.jpg", "minas9.jpg", "minas10.jpg","minas11.jpg","minas12.jpg"],
+        "path": "minas/",
+        "video": "minas.mp4",
+        "panorama": "minas_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Ιερός Ναός Αγίου Μηνά",
+              "subtitle": "Εκκλησία",
+              "short_descr": "Η ορθόδοξη Μητρόπολη του νησιού που βρίσκεται στο υψηλότερο σημείο των Φηρών.",
+              "long_descr": "Η ορθόδοξη Μητρόπολη του νησιού που βρίσκεται στο υψηλότερο σημείο των Φηρών. Αρχικά, όταν ο οικισμός των Φηρών άρχισε να αναπτύσσεται, έπρεπε να βρεθεί κάποιος ναός να χρηματίσει ως μητρόπολη των ορθοδόξων κατοίκων. Γι αυτό το λόγο, αξιοποιήθηκε ο μικρός ναός της Υπαπαντής του Σωτήρα, που ιδρύθηκε από τον Μάρκο Μπελλώνια, θηραίο έμπορα των Φηρών. Ο πληθυσμός όμως της πόλης καθώς και οι λατρευτικές ανάγκες ολοένα και αυξανόταν και για αυτό το λόγο αποφάσισαν να χτίσουν έναν μεγαλύτερο ναό. Ο σεισμός του 1956, όμως κατέστρεψε την εκκλησία  και ουσιαστικά η τελευταία του φάση είναι ο ναός που υπάρχει μέχρι και σήμερα. Η παράδοση αναφέρει, ότι η εικόνα της Παναγίας που υπάρχει ακόμα στον ναό,  προέρχεται από την Αγία Σοφία της Κωνσταντίνουπολης. Μερικά από τα σημεία που ξεχωρίζουν σήμερα, είναι ο ολόλευκος ναός με τις καμάρες του, το ψηφιδωτό στον προαύλιο χώρο του και οι εντυπωσιακές αγιογραφίες που υπάρχουν εσωτερικά."
+            },
+            "en": {
+              "title": "Church of Saint Minas",
+              "subtitle": "Church",
+              "short_descr": "The church of Saint Minas in the narrow pathways at the Caldera's edge. One of Santorini's most photographed churches",
+              "long_descr": "The church of Saint Minas in the narrow pathways at the Caldera's edge. One of Santorini's most photographed churches"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cat_id": 3,
+    "img": "images/pins/volcanos.png",
+    "monuments": [
+      {
+        "pin": {
+          "pin_id": 1,
+          "texture": "images/pins/volcanos.png",
+          "pos": {
+            "x": -8.50,
+            "y": 9.12,
+            "z": 4.4
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.400014,
+        "lon": 25.400003,
+        "id": 1,
+        "img": ["e1.jpg", "e2.jpg", "e3.jpg", "e4.jpg", "e5.jpg", "e6.jpg", "e7.jpg", "e8.jpg", "e9.jpg", "e10.jpg", "e11.jpg", "e12.jpg"],
+        "path": "new_kameni/",
+        "video": "NEAKAMENI.mp4",
+        "panorama": "VIDEO_08180 SMALL PANORAMIC.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Νέα Καμένη Θήρας",
+              "subtitle": "Ηφαίστειο",
+              "short_descr": "Ένας από τους πιο σπουδαίους παγκοσμίως ηφαιστειακούς χώρους.",
+              "long_descr": "Η Νέα Καμένη είναι ηφαιστειογενές νησί στο κέντρο της διάσημης καλδέρας της Σαντορίνης με πρώτη έκρηξη κατά τη διάρκεια του 16ου αιώ.μ.Χ., ενώ τελευταία  ηφαιστειακή δραστηριότητα εγινε το 1950. Αποτελεί, το πιο πρόσφατα δημιουργημένο τμήμα ξηράς της Ευρώπης.  Το ηφαίστειο θεωρείται ενεργό,  για αυτό παρακολουθείται από πλήθος ερευνητών από διάφορα πανεπιστήμια, ενώ εκατοντάδες επισκέπτες εντυπωσιάζονται  από την ιστορία και τη γεωλογική του  ανάπτυξη.   Ξεχωριστά σημεία  στην ιστορία του ηφαιστείου είναι τα λαογραφικά στοιχεία που έχουν αναπτύχθεί από τους κατοίκους του νησιού, αλλά και οι ιδιαίτερες αφηγήσεις των εκρήξεων από διάφορους περιηγητές."
+            },
+            "en": {
+              "title": "Nea Kameni",
+              "subtitle": "Volcano",
+              "short_descr": "One of the most important volcanic areas in the world.",
+              "long_descr": "Nea Kameni is a volcanic island in the center of the famous caldera with its first eruption during the 16th century, while the last volcanic activity was in 1950.  It is Europe's most recently created land part. The volcano is considered active, and is being monitored by a large number of researchers from various universities. Hundreds of visitors are impressed by its history and geological development. Separate points of the history of the volcano are the folklore elements developed by the locals, as well as the memorable narrations by various travelers."
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 3,
+          "texture": "images/pins/volcanos.png",
+          "pos": {
+            "x": -22.92,
+            "y": 6.42,
+            "z": 10.72
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.398059,
+        "lon": 25.378611,
+        "id": 3,
+        "img": ["f1.jpg", "f2.jpg", "f3.jpg", "f4.jpg", "f5.jpg", "f6.jpg", "f7.jpg", "f8.jpg", "f9.jpg", "f10.jpg", "f11.jpg", "f12.jpg"],
+        "path": "palaia_kameni/",
+        "video": "PALEAKAMENI.mp4",
+        "panorama": "VIDEO_14560 SMALL PANORAMIC.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Παλαιά Καμένη",
+              "subtitle": "Ηφαίστειο",
+              "short_descr": "Το δεύτερο σε σπουδαιότητα ηφαίστειο μέσα στην Καλντέρα της Σαντορίνης.",
+              "long_descr": "Η Παλαιά Καμένη είναι το δεύτερο σε σπουδαιότητα ηφαίστειο μέσα στην Καλντέρα της Σαντορίνης. Κατά μήκος των ακτών, εμφανίζονται πολλές θερμές πηγές και κατά την διάρκεια του καλοκαιριού, μεγάλος αριθμός τουριστών επισκέπτεται το νησί προκειμένου να κολυμπήσουν στα κίτρινα, από το θειάφι, νερά. Η κυριότερη θερμή πηγή του νησιού βρίσκεται στον όρμο του Αγίου Νικολάου. Στην ηφαιστειακή ιστορία της Παλαιάς Καμένης, ξεχωρίζει η έκρηξη του 726 μ.Χ. Αυτή η έκρηξη διαταράσσει σοβαρά την οικονομική και κοινωνική ζωή του Αιγαίου και ερμηνεύτηκε ως ένδειξη της οργής του Θεού που προκάλεσε η εικονομαχική διαμάχη που συγκλόνισε τότε τη βυζαντινή αυτοκρατορία."
+            },
+            "en": {
+              "title": "Palea Kameni",
+              "subtitle": "Volcano",
+              "short_descr": "The second most important volcano in the Caldera of Santorini.",
+              "long_descr": "Palaia Kameni is the second most important volcano in the Caldera of Santorini. There are many hot springs along the coast and during the summer a large number of tourists visit the island to swim in the yellow, sulfur colored waters. The main hot spring of the island is in the bay of Agios Nikolaos (Saint Nikolaos). The eruption of 726 AD stands out in the volcanic history of Palaia Kameni. This eruption severely disrupted the economic and social life of the Aegean and was interpreted as an indication of the wrath of God caused by the iconoclastic controversy that shook the Byzantine Empire."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cat_id": 4,
+    "img": "images/pins/museums.png",
+    "monuments": [
+      {
+        "pin": {
+          "pin_id": 5,
+          "texture": "images/pins/museums.png",
+          "pos": {
+            "x": 33.40,
+            "y": 8.24,
+            "z": -4.16
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.4166,
+        "lon": 25.43266,
+        "id": 5,
+        "img": ["g1.jpg", "g2.jpg", "g3.jpg", "g4.jpg", "g5.jpg", "g6.jpg", "g7.jpg", "g8.jpg", "g9.jpg", "g10.jpg", "g11.jpg", "g12.jpg"],
+        "path": "prehistoric_museum/",
+        "video": "MuseumofPrehistoric.mp4",
+        "panorama": "IMG_0948 WIDE SMALL PANORAMA.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Μουσείο Προϊστορικής Θήρας",
+              "subtitle": "Μουσείο",
+              "short_descr": "Το νεότερο δημόσιο μουσείο στη Σαντορίνη, το οποίο περιλαμβάνει εκθέματα από την προϊστορική περίοδο του νησιού, βρίσκεται στα Φηρά.",
+              "long_descr": "Το νεότερο δημόσιο μουσείο στη Σαντορίνη, το οποίο περιλαμβάνει εκθέματα από την προϊστορική περίοδο του νησιού, βρίσκεται στα Φηρά. Το Μουσείο μπορεί να θεωρηθεί ως προέκταση του αρχαιολογικού χώρου του Ακρωτηρίου, αφού στεγάζει τις τοιχογραφίες αλλά και τα κινητά ευρήματα του αστικού αυτού κέντρου στην περίοδο της μεγάλης ακμής του (17ος αι. π.Χ.). Παράλληλα φιλοξενεί ευρήματα από πολλές άλλες θέσεις της Θήρας που χρονολογούνται από την 5η χιλιετία π.Χ. Ιδιαίτερο ενδιαφέρον προκαλεί η γεωλογική ιστορία του νησιού με την έντονη ηφαιστειακή δραστηριότητα, που φαίνεται να άρχισε περίπου πριν από 1,5 εκατομμύριο χρόνια. Η περίοδος ακμής του Ακρωτηρίου (17ος αι. π.Χ.), ζωντανεύει με την ανάπτυξη επί μέρους τομέων της ζωής και της δραστηριότητας των κατοίκων της προϊστορικής πόλης. Αξιοσημείωτο είναι και το γεγονός ότι όλα τα εκθέματα είναι σε εξαιρετική κατάσταση διατήρησης. Τελευταίο έκθεμα που εντυπωσιάζει τους επισκέπτες, είναι ο μικρών διαστάσεων χρυσός αίγαγρος εντοπίστηκε κατά την ανασκαφή για τη θεμελίωση των στύλων του νέου στεγάστρου το 1999. Βρέθηκε σε μια  ξύλινη θήκη, από την οποία διατηρήθηκε μόνο το αποτύπωμα, μέσα σε μια πήλινη λάρνακα."
+            },
+            "en": {
+              "title": "Museum of Prehistoric Thira",
+              "subtitle": "Μuseums & Wineries",
+              "short_descr": "The newest public museum in Santorini, featuring exhibits from the island's prehistoric period, is located in Fira.",
+              "long_descr": "The newest public museum in Santorini, featuring exhibits from the island's prehistoric period, is located in Fira. The Museum can be considered as an extension of the archaeological site of Akrotiri, since it houses the frescoes and other portable findings of this urban center during the period of its great prosperity (17th century BC). It also hosts findings from many other sites in Thira dating from the 5th millennium BC. The geological history of the island is of particular interest, due to its intense volcanic activity, which seems to have started about 1.5 million years ago. The period of Akrotiri's flourishing (17th century BC) comes alive with the development of individual areas of life and activity of the prehistoric city. It is also noteworthy that all exhibits are perfectly preserved. The last exhibit to impress the visitors, is the small golden goat found during an excavation to lay the foundations of the new shelter in 1999. It was found in a wooden case, from which only the imprint was preserved, in a clay shrine."
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 6,
+          "texture": "images/pins/museums.png",
+          "pos": {
+            "x": 29.22,
+            "y": 7.24,
+            "z": 86.22
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.339135,
+        "lon": 25.432856,
+        "id": 6,
+        "img": ["h1.jpg", "h2.jpg", "h3.jpg", "h4.jpg", "h5.jpg", "h6.jpg", "h7.jpg", "h8.jpg", "h9.jpg", "h10.jpg", "h11.jpg"],
+        "path": "tomato/",
+        "video": "TOMATOI_MUSEUM.mp4",
+        "panorama": "G0362487 WIDE SMALL PANORAMA.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Βιομηχανικό Μουσείο Τομάτας «Δ.Νομικός»",
+              "subtitle": "Μουσείο",
+              "short_descr": "Το Βιομηχανικό Μουσείο Τομάτας «Δ.Νομικός», ιδρύθηκε το 1945 από τον Γιώργο Νομικό, στην παραλία της Βλυχάδας.",
+              "long_descr": "Το Βιομηχανικό Μουσείο Τομάτας «Δ.Νομικός», ιδρύθηκε το 1945 από τον Γιώργο Νομικό, στην παραλία της Βλυχάδας. Ήταν ένα από τα 9 εργοστάσια τομάτας που υπήρχαν στον 20ο αιώνα στο νησί. Το παλιό εργοστάσιο τομάτας «Δ. Νομικός» στη Βλυχάδα μετατράπηκε σε σύγχρονο Βιομηχανικο Μουσείο για να προσφέρει στους επισκέπτες του μία αναδρομή στο παρελθόν, ακολουθώντας την πορεία καλλιέργειας, επεξεργασίας και παραγωγής τομάτας, ενός από τα πιο διάσημα και παραδοσιακά προϊόντα της Σαντορίνης.Στο Μουσείο ο επισκέπτης έρχεται σε επαφή με τις παραδοσιακές μεθόδους που ακολουθούνταν από τους ντοματοποιούς της Σαντορίνης, γνωρίζοντας παράλληλα την ιστορία του τόπου, των κατοίκων της και των παραδόσεών τους.Τα εκθέματα του Μουσείου περιλαμβάνουν μηχανές επεξεργασίας από το 1890, παλιά χειρόγραφα βιβλία του εργοστασίου, παλιά εργαλεία, τις πρώτες ετικέτες, καθώς και οπτικοακουστικό υλικό με μαγνητοσκοπημένες αφηγήσεις ανθρώπων που εργάστηκαν στο εργοστάσιο."
+            },
+            "en": {
+              "title": "Tomato Industrial Museum “D.Nomikos”",
+              "subtitle": "Μuseums & Wineries",
+              "short_descr": "The production of tomato paste and wine was the foundation of Santorini's economy in the 19th century.",
+              "long_descr": "The production of tomato paste and wine was the foundation of Santorini's economy in the 19th century. Prior to industrialization, the majority of production was concentrated in the hands of family processing units. Industrialization also affected the production process. The first factory was built in 1925 – 1926 at Monolithos and was followed by others. Most of these factories have been abandoned. The Industrial Museum of Tomatoes \"D. Nomikos\", was founded in 1945 by George Nomikos, in Vlychada beach. It was one of the 9 tomato industries that existed in the 20th century on the island. The historical tomato factory of D.Nomikos in Vlychada has been transformed into a modern Industrial Tomato Museum, offering its visitors a journey back to the industrial past of Santorini, by guiding them through the cultivation, processing and production of tomato. The fact that tomato is one of the most famous and traditional products of Santorini, makes this experience a unique one. In the museum, the visitor experiences all the traditional methods followed by the tomato producers of Santorini and at the same time, becomes acquainted with the museum exhibits. These include a full range of the processing machinery dating back to 1890, hand-written account books of the plant, a variety of hand-written notebooks regarding various aspects of the factory, old tools and the first labels used. Moreover, a dated history of the island of Santorini, its inhabitants and their unique tradition as well as audiovisual material with interviews of past workers of the plant, who narrate their firsthand experiences of a by-gone industrial era, are available."
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 7,
+          "texture": "images/pins/museums.png",
+          "pos": {
+            "x": -27.24,
+            "y": 8,
+            "z": -70.58
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.461734,
+        "lon": 25.373953,
+        "id": 7,
+        "img": ["i1.jpg", "i2.jpg", "i3.jpg", "i4.jpg", "i5.jpg", "i6.jpg", "i7.jpg", "i8.jpg", "i9.jpg", "i10.jpg", "i11.jpg", "i12.jpg"],
+        "path": "maritime_museum/",
+        "video": "MARITIMEMUSEUM.mp4",
+        "panorama": "IMG_1019 WIDE SMAL PANORAMAL.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Ναυτικό Μουσείο Θήρας",
+              "subtitle": "Μουσείο",
+              "short_descr": "Το Ναυτικό Μουσείο στην Οία, στεγάζει ξεχωριστά σημεία της ναυτικής ιστορίας του νησιού.",
+              "long_descr": "Το Ναυτικό Μουσείο Θήρας ιδρύθηκε το 1951 ενώ ουσιαστικά στο κτήριο που στεγάζεται σήμερα, ένα καπετανόσπιτο του 19ου αιώνα, μεταφέρθηκε μόνο το 1991. Το μουσείο απαρτίζεται από δύο ορόφους. Στο ισόγειο, εκτίθενται αυτούσια εξαρτήματα ναυτιλιακού εξοπλισμού, ενώ στον επάνω οροφο, παρουσιάζονται μοντέλα παλαιών ιστιοφόρων  αλλά και διάφορες  υδατογραφίες, προικοσύμφωνα κ.α. Με δεδομένη την πλούσια και σημαντική ναυτική ιστορία της Σαντορίνης , κυρίως της Οίας  (τόπος καταγωγής πολλών πλοιοκτητών, καρνάγιο κ.α.), ήταν επιβεβλημένη η  ίδρυση του Ναυτικού Μουσείου."
+            },
+            "en": {
+              "title": "Maritime Museum of Thira",
+              "subtitle": "Μuseums & Wineries",
+              "short_descr": "The Maritime Museum in Oia exhibits distinctive aspects of the island's maritime history.",
+              "long_descr": "The Maritime museum of Thira was founded in 1951 and was essentially moved to the present-day building, a 19th-century captain's house, only in 1991. The museum consists of two floors. On the ground floor the visitor could find different  marine equipments, while on the upper floor, there are models of old sailboats, as well as various watercolors and legal documents. Given the rich and significant maritime history of Santorini, especially of Oia (the birthplace of ship-owners, shipyard, etc.), it was imperative to establish the Maritime Museum."
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 41,
+          "texture": "images/pins/museums.png",
+          "pos": {
+            "x": -27.24,
+            "y": 8,
+            "z": -70.58
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.42011,
+        "lon": 25.43104,
+        "id": 41,
+        "img": ["arch_thira1.jpg", "arch_thira2.jpg", "arch_thira3.jpg", "arch_thira4.jpg", "arch_thira5.jpg", "arch_thira6.jpg", "arch_thira7.jpg", "arch_thira8.jpg", "arch_thira9.jpg", "arch_thira10.jpg", "arch_thira11.jpg", "arch_thira12.jpg"],
+        "path": "arch_thira/",
+        "video": "arch_thira.mp4",
+        "panorama": "arch_thira_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Αρχαιολογικό Μουσείο Θήρας",
+              "subtitle": "Μουσείο",
+              "short_descr": "Το Ναυτικό Μουσείο στην Οία, στεγάζει ξεχωριστά σημεία της ναυτικής ιστορίας του νησιού.",
+              "long_descr": "Το Ναυτικό Μουσείο Θήρας ιδρύθηκε το 1951 ενώ ουσιαστικά στο κτήριο που στεγάζεται σήμερα, ένα καπετανόσπιτο του 19ου αιώνα, μεταφέρθηκε μόνο το 1991. Το μουσείο απαρτίζεται από δύο ορόφους. Στο ισόγειο, εκτίθενται αυτούσια εξαρτήματα ναυτιλιακού εξοπλισμού, ενώ στον επάνω οροφο, παρουσιάζονται μοντέλα παλαιών ιστιοφόρων  αλλά και διάφορες  υδατογραφίες, προικοσύμφωνα κ.α. Με δεδομένη την πλούσια και σημαντική ναυτική ιστορία της Σαντορίνης , κυρίως της Οίας  (τόπος καταγωγής πολλών πλοιοκτητών, καρνάγιο κ.α.), ήταν επιβεβλημένη η  ίδρυση του Ναυτικού Μουσείου."
+            },
+            "en": {
+              "title": "Archeological Museum of Thira",
+              "subtitle": "Μuseums & Wineries",
+              "short_descr": "Thira's Archaeological Museum is near the catholic district of Fira.",
+              "long_descr": "Thira's Archaeological Museum is near the catholic district of Fira. The current structure was built in the 1960s. The old museum  was founded in 1902, was destroyed by the earthquakes of 1956 and was demolished. The exhibition includes findings from ancient Thira's city and cemeteries that span the entire period of antiquity, from early history to late Roman times."
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 42,
+          "texture": "images/pins/museums.png",
+          "pos": {
+            "x": -27.24,
+            "y": 8,
+            "z": -70.58
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.38725,
+        "lon": 25.43668,
+        "id": 42,
+        "img": ["santo1.jpg", "santo2.jpg", "santo3.jpg", "santo4.jpg", "santo5.jpg", "santo6.jpg", "santo7.jpg", "santo8.jpg", "santo9.jpg", "santo10.jpg", "santo11.jpg", "santo12.jpg"],
+        "path": "santo/",
+        "video": "santo.mp4",
+        "panorama": "santo_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Αρχαιολογικό Μουσείο Θήρας",
+              "subtitle": "Μουσείο",
+              "short_descr": "Το Ναυτικό Μουσείο στην Οία, στεγάζει ξεχωριστά σημεία της ναυτικής ιστορίας του νησιού.",
+              "long_descr": "Το Ναυτικό Μουσείο Θήρας ιδρύθηκε το 1951 ενώ ουσιαστικά στο κτήριο που στεγάζεται σήμερα, ένα καπετανόσπιτο του 19ου αιώνα, μεταφέρθηκε μόνο το 1991. Το μουσείο απαρτίζεται από δύο ορόφους. Στο ισόγειο, εκτίθενται αυτούσια εξαρτήματα ναυτιλιακού εξοπλισμού, ενώ στον επάνω οροφο, παρουσιάζονται μοντέλα παλαιών ιστιοφόρων  αλλά και διάφορες  υδατογραφίες, προικοσύμφωνα κ.α. Με δεδομένη την πλούσια και σημαντική ναυτική ιστορία της Σαντορίνης , κυρίως της Οίας  (τόπος καταγωγής πολλών πλοιοκτητών, καρνάγιο κ.α.), ήταν επιβεβλημένη η  ίδρυση του Ναυτικού Μουσείου."
+            },
+            "en": {
+              "title": "Santo wines",
+              "subtitle": "Μuseums & Wineries",
+              "short_descr": "For a lot of years, the inhabitants of Santorini have used a completely different method of pruning vines, known as \"kouloura.\"",
+              "long_descr": "For a lot of years, the inhabitants of Santorini have used a completely different method of pruning vines, known as \"kouloura.\" They shape the vines into baskets to protect the fruit from the sweeping winds, the hot sun, and the lack of rain water (apart from the humidity). The vines are planted in volcanic ash-derived soil. Many different wineries have been established in recent years, which, in collaboration with the Santo Wines Cooperation, are preserving the wine tradition, the origins of which can be found in the excavations of Akrotiri. The most well-known Santorini wines are the Nychteri, a white dry aromatic wine, and the famous sweet Vinsanto, made from sun-dried grapes.\nSanto wines, the Union of Santorini Cooperatives, was established in 1947. Today, it is the largest organization of the island, representing all cultivators, with over 1.200 active members.  The aim of the Union is the management of the agricultural products of Santorini. The products include  wine, tomatoes, split pea ( fava beans), capers, and the local cheese chloro.\n"
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 43,
+          "texture": "images/pins/museums.png",
+          "pos": {
+            "x": -27.24,
+            "y": 8,
+            "z": -70.58
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.39669,
+        "lon": 25.46014,
+        "id": 43,
+        "img": ["wine1.jpg", "wine2.jpg", "wine3.jpg", "wine4.jpg", "wine5.jpg", "wine6.jpg", "wine7.jpg", "wine8.jpg", "wine9.jpg", "wine10.jpg", "wine11.jpg", "wine12.jpg"],
+        "path": "wine/",
+        "video": "wine.mp4",
+        "panorama": "wine_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Αρχαιολογικό Μουσείο Θήρας",
+              "subtitle": "Μουσείο",
+              "short_descr": "Το Ναυτικό Μουσείο στην Οία, στεγάζει ξεχωριστά σημεία της ναυτικής ιστορίας του νησιού.",
+              "long_descr": "Το Ναυτικό Μουσείο Θήρας ιδρύθηκε το 1951 ενώ ουσιαστικά στο κτήριο που στεγάζεται σήμερα, ένα καπετανόσπιτο του 19ου αιώνα, μεταφέρθηκε μόνο το 1991. Το μουσείο απαρτίζεται από δύο ορόφους. Στο ισόγειο, εκτίθενται αυτούσια εξαρτήματα ναυτιλιακού εξοπλισμού, ενώ στον επάνω οροφο, παρουσιάζονται μοντέλα παλαιών ιστιοφόρων  αλλά και διάφορες  υδατογραφίες, προικοσύμφωνα κ.α. Με δεδομένη την πλούσια και σημαντική ναυτική ιστορία της Σαντορίνης , κυρίως της Οίας  (τόπος καταγωγής πολλών πλοιοκτητών, καρνάγιο κ.α.), ήταν επιβεβλημένη η  ίδρυση του Ναυτικού Μουσείου."
+            },
+            "en": {
+              "title": "Wine Museum Koutsogiannopoulos",
+              "subtitle": "Μuseums & Wineries",
+              "short_descr": "In one of the most unique places on the planet, the Wine Museum Koutsogiannopoulos has everything a visitor would want to know about winemaking.",
+              "long_descr": "In one of the most unique places on the planet, the Wine Museum Koutsogiannopoulos has everything a visitor would want to know about winemaking. Guests will can have  an idea winemaker’s life was like, thanks to the family's knowledge and historical exhibits. This one-of-a-kind museum is nestled in a cave, and due to its unique location, this natural labyrinth is eight meters below ground and 300 meters long."
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 44,
+          "texture": "images/pins/museums.png",
+          "pos": {
+            "x": -27.24,
+            "y": 8,
+            "z": -70.58
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.39743,
+        "lon": 25.43987,
+        "id": 44,
+        "img": ["canava1.jpg", "canava2.jpg", "canava3.jpg", "canava4.jpg", "canava5.jpg", "canava6.jpg", "canava7.jpg", "canava8.jpg", "canava9.jpg", "canava10.jpg", "canava11.jpg", "canava12.jpg"],
+        "path": "canava/",
+        "video": "canava.mp4",
+        "panorama": "canava_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Αρχαιολογικό Μουσείο Θήρας",
+              "subtitle": "Μουσείο",
+              "short_descr": "Το Ναυτικό Μουσείο στην Οία, στεγάζει ξεχωριστά σημεία της ναυτικής ιστορίας του νησιού.",
+              "long_descr": "Το Ναυτικό Μουσείο Θήρας ιδρύθηκε το 1951 ενώ ουσιαστικά στο κτήριο που στεγάζεται σήμερα, ένα καπετανόσπιτο του 19ου αιώνα, μεταφέρθηκε μόνο το 1991. Το μουσείο απαρτίζεται από δύο ορόφους. Στο ισόγειο, εκτίθενται αυτούσια εξαρτήματα ναυτιλιακού εξοπλισμού, ενώ στον επάνω οροφο, παρουσιάζονται μοντέλα παλαιών ιστιοφόρων  αλλά και διάφορες  υδατογραφίες, προικοσύμφωνα κ.α. Με δεδομένη την πλούσια και σημαντική ναυτική ιστορία της Σαντορίνης , κυρίως της Οίας  (τόπος καταγωγής πολλών πλοιοκτητών, καρνάγιο κ.α.), ήταν επιβεβλημένη η  ίδρυση του Ναυτικού Μουσείου."
+            },
+            "en": {
+              "title": "Canava Santorini Loukas Lygnos",
+              "subtitle": "Μuseums & Wineries",
+              "short_descr": "Canava Santorini is an old distillery that  has been transformed into a small traditional neighborhood that blends folklore and the distillation process harmoniously.",
+              "long_descr": "Canava Santorini is an old distillery that  has been transformed into a small traditional neighborhood that blends folklore and the distillation process harmoniously."
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 45,
+          "texture": "images/pins/museums.png",
+          "pos": {
+            "x": -27.24,
+            "y": 8,
+            "z": -70.58
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.42082,
+        "lon": 25.43092,
+        "id": 45,
+        "img": ["gyzi1.jpg", "gyzi2.jpg", "gyzi3.jpg", "gyzi4.jpg", "gyzi5.jpg", "gyzi6.jpg", "gyzi7.jpg", "gyzi8.jpg", "gyzi9.jpg", "gyzi10.jpg", "gyzi11.jpg", "gyzi12.jpg"],
+        "path": "gyzi/",
+        "video": "gyzi.mp4",
+        "panorama": "gyzi_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Αρχαιολογικό Μουσείο Θήρας",
+              "subtitle": "Μουσείο",
+              "short_descr": "Το Ναυτικό Μουσείο στην Οία, στεγάζει ξεχωριστά σημεία της ναυτικής ιστορίας του νησιού.",
+              "long_descr": "Το Ναυτικό Μουσείο Θήρας ιδρύθηκε το 1951 ενώ ουσιαστικά στο κτήριο που στεγάζεται σήμερα, ένα καπετανόσπιτο του 19ου αιώνα, μεταφέρθηκε μόνο το 1991. Το μουσείο απαρτίζεται από δύο ορόφους. Στο ισόγειο, εκτίθενται αυτούσια εξαρτήματα ναυτιλιακού εξοπλισμού, ενώ στον επάνω οροφο, παρουσιάζονται μοντέλα παλαιών ιστιοφόρων  αλλά και διάφορες  υδατογραφίες, προικοσύμφωνα κ.α. Με δεδομένη την πλούσια και σημαντική ναυτική ιστορία της Σαντορίνης , κυρίως της Οίας  (τόπος καταγωγής πολλών πλοιοκτητών, καρνάγιο κ.α.), ήταν επιβεβλημένη η  ίδρυση του Ναυτικού Μουσείου."
+            },
+            "en": {
+              "title": "Gyzi Megaron",
+              "subtitle": "Μuseums & Wineries",
+              "short_descr": "The Cultural Center Mansion Gyzi in Fira is a non-profit organization founded in 1980 by the Catholic Diocese of Thera on their initiative and with their financial support.",
+              "long_descr": "The Cultural Center Mansion Gyzi in Fira is a non-profit organization founded in 1980 by the Catholic Diocese of Thera on their initiative and with their financial support. It is housed in a 1700s renaissance mansion. Its primary goal is to promote Santorini to the local community and visitors by enhancing the spiritual and cultural life of the island .During recent renovation the special island architecture of the 18th century has been preserved , in the best possible way. In the ground floor rooms of the historic mansion of the Venetian family Gyzi documents, paintings, photographs and various other objects are exhibited in order to  illuminate important aspects of Santorini varied history. "
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 46,
+          "texture": "images/pins/museums.png",
+          "pos": {
+            "x": -27.24,
+            "y": 8,
+            "z": -70.58
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.39854,
+        "lon": 25.44811,
+        "id": 46,
+        "img": ["argyros1.jpg", "argyros2.jpg", "argyros3.jpg", "argyros4.jpg", "argyros5.jpg", "argyros6.jpg", "argyros7.jpg", "argyros8.jpg", "argyros9.jpg", "argyros10.jpg", "argyros11.jpg", "argyros12.jpg"],
+        "path": "argyros/",
+        "video": "argyros.mp4",
+        "panorama": "argyros_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Argyros Mansion \"Αρχοντικό Αργυρού\"",
+              "subtitle": "Μουσείο",
+              "short_descr": "Το Ναυτικό Μουσείο στην Οία, στεγάζει ξεχωριστά σημεία της ναυτικής ιστορίας του νησιού.",
+              "long_descr": "Το Ναυτικό Μουσείο Θήρας ιδρύθηκε το 1951 ενώ ουσιαστικά στο κτήριο που στεγάζεται σήμερα, ένα καπετανόσπιτο του 19ου αιώνα, μεταφέρθηκε μόνο το 1991. Το μουσείο απαρτίζεται από δύο ορόφους. Στο ισόγειο, εκτίθενται αυτούσια εξαρτήματα ναυτιλιακού εξοπλισμού, ενώ στον επάνω οροφο, παρουσιάζονται μοντέλα παλαιών ιστιοφόρων  αλλά και διάφορες  υδατογραφίες, προικοσύμφωνα κ.α. Με δεδομένη την πλούσια και σημαντική ναυτική ιστορία της Σαντορίνης , κυρίως της Οίας  (τόπος καταγωγής πολλών πλοιοκτητών, καρνάγιο κ.α.), ήταν επιβεβλημένη η  ίδρυση του Ναυτικού Μουσείου."
+            },
+            "en": {
+              "title": "Argyros Mansion",
+              "subtitle": "Μuseums & Wineries",
+              "short_descr": "The Argyros mansion is one of the most notable recent monuments of the island of Santorini, and it holds an important place within the Messaria community due to its morphological and architectural significance.",
+              "long_descr": "The Argyros mansion is one of the most notable recent monuments of the island of Santorini, and it holds an important place within the Messaria community due to its morphological and architectural significance. It combines traditional Santorini architecture with elements and influences from eclecticism. Many morphological elements adorn the building's facets, and its interior features exceptional art ceiling paintings. All of the upper floor's furniture and utensils have been preserved and cared for as if they were in a museum. The visitor can thus become acquainted with the residence of a Santorini landowner from the nineteenth century."
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 47,
+          "texture": "images/pins/museums.png",
+          "pos": {
+            "x": -27.24,
+            "y": 8,
+            "z": -70.58
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.41616,
+        "lon": 25.43319,
+        "id": 47,
+        "img": ["bellonio1.jpg", "bellonio2.jpg", "bellonio3.jpg", "bellonio4.jpg", "bellonio5.jpg", "bellonio6.jpg", "bellonio7.jpg", "bellonio8.jpg", "bellonio9.jpg", "bellonio10.jpg", "bellonio11.jpg", "bellonio12.jpg"],
+        "path": "bellonio/",
+        "video": "bellonio.mp4",
+        "panorama": "bellonio_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Μπελλώνειο Πολιτιστικό Κέντρο",
+              "subtitle": "Μουσείο",
+              "short_descr": "Το Ναυτικό Μουσείο στην Οία, στεγάζει ξεχωριστά σημεία της ναυτικής ιστορίας του νησιού.",
+              "long_descr": "Το Ναυτικό Μουσείο Θήρας ιδρύθηκε το 1951 ενώ ουσιαστικά στο κτήριο που στεγάζεται σήμερα, ένα καπετανόσπιτο του 19ου αιώνα, μεταφέρθηκε μόνο το 1991. Το μουσείο απαρτίζεται από δύο ορόφους. Στο ισόγειο, εκτίθενται αυτούσια εξαρτήματα ναυτιλιακού εξοπλισμού, ενώ στον επάνω οροφο, παρουσιάζονται μοντέλα παλαιών ιστιοφόρων  αλλά και διάφορες  υδατογραφίες, προικοσύμφωνα κ.α. Με δεδομένη την πλούσια και σημαντική ναυτική ιστορία της Σαντορίνης , κυρίως της Οίας  (τόπος καταγωγής πολλών πλοιοκτητών, καρνάγιο κ.α.), ήταν επιβεβλημένη η  ίδρυση του Ναυτικού Μουσείου."
+            },
+            "en": {
+              "title": "Bellonio Cultural Center ",
+              "subtitle": "Μuseums & Wineries",
+              "short_descr": "It is without a doubt one of the most popular and prestigious cultural venues in Santorini.",
+              "long_descr": "It is without a doubt one of the most popular and prestigious cultural venues in Santorini. The main premises include a well-stocked library with a stupendous array of books on various subjects that provide fascinating insight and info. The Bellonio Cultural Center hosts cultural events and art exhibitions on a regular basis, and promotes Santorini's rich cultural and artistic tradition.  The main premises include a well-stocked library with a stupendous array of books on various subjects that provide fascinating insight and info. The Bellonio Cultural Center hosts cultural events and art exhibitions on a regular basis, and promotes Santorini's rich cultural and artistic tradition."
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 48,
+          "texture": "images/pins/museums.png",
+          "pos": {
+            "x": -27.24,
+            "y": 8,
+            "z": -70.58
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.42299,
+        "lon": 25.43421,
+        "id": 48,
+        "img": ["lygnos1.jpg", "lygnos2.jpg", "lygnos3.jpg", "lygnos4.jpg", "lygnos5.jpg", "lygnos6.jpg", "lygnos7.jpg", "lygnos8.jpg", "lygnos9.jpg", "lygnos10.jpg", "lygnos11.jpg", "lygnos12.jpg"],
+        "path": "lygnos/",
+        "video": "lygnos.mp4",
+        "panorama": "lygnos_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Λαογραφικό Μουσείο Σαντορίνης «Εμμ. Α. Λιγνός»",
+              "subtitle": "Μουσείο",
+              "short_descr": "Το Ναυτικό Μουσείο στην Οία, στεγάζει ξεχωριστά σημεία της ναυτικής ιστορίας του νησιού.",
+              "long_descr": "Το Ναυτικό Μουσείο Θήρας ιδρύθηκε το 1951 ενώ ουσιαστικά στο κτήριο που στεγάζεται σήμερα, ένα καπετανόσπιτο του 19ου αιώνα, μεταφέρθηκε μόνο το 1991. Το μουσείο απαρτίζεται από δύο ορόφους. Στο ισόγειο, εκτίθενται αυτούσια εξαρτήματα ναυτιλιακού εξοπλισμού, ενώ στον επάνω οροφο, παρουσιάζονται μοντέλα παλαιών ιστιοφόρων  αλλά και διάφορες  υδατογραφίες, προικοσύμφωνα κ.α. Με δεδομένη την πλούσια και σημαντική ναυτική ιστορία της Σαντορίνης , κυρίως της Οίας  (τόπος καταγωγής πολλών πλοιοκτητών, καρνάγιο κ.α.), ήταν επιβεβλημένη η  ίδρυση του Ναυτικού Μουσείου."
+            },
+            "en": {
+              "title": "Folklore Museum Emm.A.Lygnos",
+              "subtitle": "Μuseums & Wineries",
+              "short_descr": "It is located in a cave house built in 1861. You can find a lot of old workshops and the old winery.",
+              "long_descr": "It is located in a cave house built in 1861. You can find a lot of old workshops and the old winery."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cat_id": 5,
+    "img": "images/pins/paths.png",
+    "monuments": [
+      {
+        "pin": {
+          "pin_id": 9,
+          "texture": "images/pins/paths.png",
+          "pos": {
+            "x": 4.56,
+            "y": 8.24,
+            "z": -76.92
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.41711,
+        "lon": 25.4316,
+        "id": 9,
+        "img": ["j1.jpg", "j2.jpg", "j3.jpg", "j4.jpg", "j5.jpg", "j6.jpg", "j7.jpg", "j8.jpg", "j9.jpg", "j10.jpg", "j11.jpg", "j12.jpg"],
+        "path": "walking_path_oia/",
+        "video": "PATHFIRA.mp4",
+        "panorama": "SANTORINI FOR MONOPATI SMALL panoramic.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Μονοπάτι Φηρά – Οία",
+              "subtitle": "Διαδρομή",
+              "short_descr": "Μία από τις πιο ιδιαίτερες περιπατητικές περιηγήσεις  στο νησί",
+              "long_descr": "Μία από τις πιο ιδιαίτερες περιπατητικές περιηγήσεις  στο νησί. Η απόσταση είναι περίπου στα 12 χλμ, έχοντας ως αρχή την πλατεία των Φηρών, ενώ η χρονική διάρκεια είναι κατά μέσο όρο 3 ώρες. Το πολύ γνωστό σε όλους μονοπάτι από τα Φηρά μέχρι και την Οία, συνδυάζει ιστορία, γεωλογία, αρχιτεκτονική κ.α. Ξεκινώντας από τα Φηρά, πάντα με τις κατάλληλες προϋποθέσεις και συνθήκες,  διασχίζετε την Καθολική Συνοικία των Φηρών, το Φηροστεφάνι και το Ημεροβίγλι. Πρώτη βασική στάση στη διαδρομή είναι ο Σκάρος, η μεσαιωνική πρωτεύουσα του νησιού. Στη συνέχεια θα ακολουθήσετε τη διαδρομή στο χείλος της καλδέρας φτάνοντας αρχικά στην εκκλησία του Προφήτη Ηλία στο Ημεροβίγλι. Από εκεί και πέρα, συνεχίζεται το μονοπάτι προς την Οία ενώ για μία απόσταση 500 μέτρα, η διαδρομή διέρχεται μέσω του κεντρικού δρόμου. Στο τελευταίο μέρος της διαδρομής θα συναντήσετε ξεχωριστά στοιχεία της γεωλογικής ιστορίας του νησιού. Ιδιαίτερα εντυπωσιακό μέρος στο μονοπάτι είναι και η κάθοδος προς την Οία."
+            },
+            "en": {
+              "title": "Hiking Path Fira – Oia",
+              "subtitle": "Path",
+              "short_descr": "One of the most important walking – hiking path on the island",
+              "long_descr": "Is one of the most important walking – hiking paths of the island. Its distance is about 12 km starting from the orthodox cathedral in Fira and it takes approxrimately 3 hours to traverse. The well know trail combines history, geology, architecture and much more. Starting from Fira, you will pass through the catholic district and the villages of Firostefani and Imerovigli. The first major stop is Skaros, the island’s medieval capital. You will then follow the path, along the caldera’s rim to reach the second spot, the church of Prophet Elias in Imerovigli . From that point,  the path continues to Oia and for a distance of 500 meters, the route coincides with the main road. In the last part of the trail you will find remarkable elements of the geological history of the island. The descent to Oia is particularly breathtaking."
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 11,
+          "texture": "images/pins/paths.png",
+          "pos": {
+            "x": 35,
+            "y": 7,
+            "z": 50
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.37737,
+        "lon": 25.43222,
+        "id": 11,
+        "img": ["k1.jpg", "k2.jpg", "k3.jpg", "k4.jpg", "k5.jpg", "k6.jpg", "k7.jpg", "k8.jpg", "k9.jpg", "k10.jpg", "k11.jpg", "k12.jpg"],
+        "path": "walking_path_megaloxori_pirgos_emporio/",
+        "video": "PATH_MEG_PIRGOS.mp4",
+        "panorama": "PYRGOS PANORAMIC 01 SMALL PANORAMIC.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Μονοπάτι Μεγαλοχώρι – Πύργος – Εμπορείο",
+              "subtitle": "Διαδρομή",
+              "short_descr": "Μία από τις πιο άγνωστες και ενδιαφέρουσες ταυτόχρονα διαδρομές του νησιού παρουσιάζοντας διαφορετικά πολιτισμικά στοιχεία μακριά από την τόσο γνωστή καλδέρα.",
+              "long_descr": "Μία από τις πιο άγνωστες και ενδιαφέρουσες ταυτόχρονα διαδρομές του νησιού παρουσιάζοντας διαφορετικά πολιτισμικά στοιχεία μακριά από την τόσο γνωστή καλδέρα. Η διάρκεια της διαδρομής είναι κατά μέσο 3 – 4 ώρες ανάλογα το σημείο εκκίνησης. Ξεκινώντας από το Μεγαλοχώρι, ένα από τα πιο παραδοσιακά χωριά του νησιού κατευθυνόμαστε στην πίσω πλευρά του χωριού οπού εκεί ξεκινάει το μονοπάτι προς τον Πύργο. Η αρχή του μονοπατιού γίνεται μέσα από τον πολύ ξεχωριστό θηραϊκό αμπελώνα  και κατευθυνόμαστε ουσιαστικά μέσα σε λίγη ώρα (30 – 40 λεπτά) στην αρχή της εισόδου του Πύργου. Από εκεί, έχουμε τη δυνατότητα, να επισκεφθούμε έναν από τους ιδιαίτερους οχυρωματικούς οικισμούς των Κυκλάδων, τον Πύργο, με μοναδικά στοιχεία  αρχιτεκτονικής. Διασχίζοντας τον κεντρικό δρόμο, εντοπίζουμε τη συνέχεια του μονοπατιού προς το Εμπορείο. Εκεί, έχοντας στα δεξιά μας τον κάμπο του Πύργου – Εμπορείου κατευθυνόμαστε σε μια άγνωστη γόνιμη πλευρά του νησιού. Λίγο πριν το τέλος, διακρίνεται εκτός των άλλων η εκκλησία της Αγίας Αικατερίνας στο Εμπορείο. Η διαδρομή ολοκληρώνεται λίγα μέτρα πιο μακριά όπου συναντάμε την είσοδο του Καστελιού (Κάστρο) του Εμπορείου. Ενδιαφέροντα σημεία μέσα στο κάστρο είναι ο τρόπος δόμησης των σπιτιών αλλά και η εκκλησία της Παναγίας (Κοίμηση της Θεοτόκου)."
+            },
+            "en": {
+              "title": "Hiking path Megalochori - Pyrgos – Emporio",
+              "subtitle": "Path",
+              "short_descr": "It is one of the most unknown and interesting at the same time routes of the island with a variety of cultural elements, far from the well-known caldera.",
+              "long_descr": "It is one of the most unknown and interesting at the same time routes of the island with a variety of cultural elements, far from the well-known caldera. The hike takes an average of 3-4 hours depending on the starting point. The path to Pyrgos starts from Megalochori, one of the most traditional villages of the island. The starting point is within a traditional vineyard and the visitor is guided in a short time (30 - 40 minutes) towards the entrance of the village of Pyrgos. At this point, the visitor has the opportunity to visit one of the most important fortified settlements of Cyclades, the village of Pyrgos, displaying unique architectural characteristics. The main road to the Monastery of Prophet Elias, crosscuts the path to Emporio, on the right of which, the plain of Pyrgos – Emporio can be seen. Shortly before the end, the church of St. Catherine in Emporio can be distinguished. The route ends a few meters further, where you can find the entrance of the Castle of Emporio. Interesting points of view inside the castle are the way of the houses that are built and the church of Virgin Mary ( approx 3  hours) ."
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 50,
+          "texture": "images/pins/paths.png",
+          "pos": {
+            "x": 35,
+            "y": 7,
+            "z": 50
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.35693,
+        "lon": 25.47425,
+        "id": 50,
+        "img": ["pk1.jpg", "pk2.jpg", "pk3.jpg", "pk4.jpg", "pk5.jpg", "pk6.jpg", "pk7.jpg", "pk8.jpg", "pk9.jpg", "pk10.jpg", "pk11.jpg", "pk12.jpg"],
+        "path": "walking_path_perissa_kamari/",
+        "video": "perissa_kamari.mp4",
+        "panorama": "perissa_kamari.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Μονοπάτι Περισσά - Καμάρι",
+              "subtitle": "Διαδρομή",
+              "short_descr": "Μία από τις πιο άγνωστες και ενδιαφέρουσες ταυτόχρονα διαδρομές του νησιού παρουσιάζοντας διαφορετικά πολιτισμικά στοιχεία μακριά από την τόσο γνωστή καλδέρα.",
+              "long_descr": "Μία από τις πιο άγνωστες και ενδιαφέρουσες ταυτόχρονα διαδρομές του νησιού παρουσιάζοντας διαφορετικά πολιτισμικά στοιχεία μακριά από την τόσο γνωστή καλδέρα. Η διάρκεια της διαδρομής είναι κατά μέσο 3 – 4 ώρες ανάλογα το σημείο εκκίνησης. Ξεκινώντας από το Μεγαλοχώρι, ένα από τα πιο παραδοσιακά χωριά του νησιού κατευθυνόμαστε στην πίσω πλευρά του χωριού οπού εκεί ξεκινάει το μονοπάτι προς τον Πύργο. Η αρχή του μονοπατιού γίνεται μέσα από τον πολύ ξεχωριστό θηραϊκό αμπελώνα  και κατευθυνόμαστε ουσιαστικά μέσα σε λίγη ώρα (30 – 40 λεπτά) στην αρχή της εισόδου του Πύργου. Από εκεί, έχουμε τη δυνατότητα, να επισκεφθούμε έναν από τους ιδιαίτερους οχυρωματικούς οικισμούς των Κυκλάδων, τον Πύργο, με μοναδικά στοιχεία  αρχιτεκτονικής. Διασχίζοντας τον κεντρικό δρόμο, εντοπίζουμε τη συνέχεια του μονοπατιού προς το Εμπορείο. Εκεί, έχοντας στα δεξιά μας τον κάμπο του Πύργου – Εμπορείου κατευθυνόμαστε σε μια άγνωστη γόνιμη πλευρά του νησιού. Λίγο πριν το τέλος, διακρίνεται εκτός των άλλων η εκκλησία της Αγίας Αικατερίνας στο Εμπορείο. Η διαδρομή ολοκληρώνεται λίγα μέτρα πιο μακριά όπου συναντάμε την είσοδο του Καστελιού (Κάστρο) του Εμπορείου. Ενδιαφέροντα σημεία μέσα στο κάστρο είναι ο τρόπος δόμησης των σπιτιών αλλά και η εκκλησία της Παναγίας (Κοίμηση της Θεοτόκου)."
+            },
+            "en": {
+              "title": "Hiking path Perissa – Kamari",
+              "subtitle": "Path",
+              "short_descr": "The walk will begin at the northern end of Perissa beach.",
+              "long_descr": "The walk will begin at the northern end of Perissa beach. You will soon pass the ruins of a Byzantine church (Saint Irini) on your right, and after a short distance, you will find the trailhead with a sign for \"Ancient Thira.\" The small church of Virgin Mary Katefiani ( Panagia Katefiani) can be found hidden in the cliffs high up on the right. The name 'Katefiani' is derived from the Greek words katefio or katefygio, which mean a place of refuge, as the inhabitants sought refuge there during hostile raids. It dates from 1537 to 1650 AD. The route concludes at Ancient Thera, where you can explore the Archeological site. From there, you can begin your descent down to Kamari's side. . You'll pass Zoodochos Pigi's little church on your way down ( Life- Giving Spring). The cave's natural spring is the only source of fresh water on the island of Santorini. The Zoodochos Pigi Cave is 25 meters long. It is named after the church located at the cave's entrance. Stalactites and stalagmites can be found in the cave. ( approx 2 hours)"
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 51,
+          "texture": "images/pins/paths.png",
+          "pos": {
+            "x": 35,
+            "y": 7,
+            "z": 50
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.41073,
+        "lon": 25.39998,
+        "id": 51,
+        "img": ["vh1.jpg", "vh2.jpg", "vh3.jpg", "vh4.jpg", "vh5.jpg", "vh6.jpg", "vh7.jpg", "vh8.jpg", "vh9.jpg", "vh10.jpg", "vh11.jpg", "vh12.jpg"],
+        "path": "walking_path_volcano_hiking/",
+        "video": "volcano_hiking.mp4",
+        "panorama": "volcano_hiking.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Μονοπάτι Περισσά - Καμάρι",
+              "subtitle": "Διαδρομή",
+              "short_descr": "Μία από τις πιο άγνωστες και ενδιαφέρουσες ταυτόχρονα διαδρομές του νησιού παρουσιάζοντας διαφορετικά πολιτισμικά στοιχεία μακριά από την τόσο γνωστή καλδέρα.",
+              "long_descr": "Μία από τις πιο άγνωστες και ενδιαφέρουσες ταυτόχρονα διαδρομές του νησιού παρουσιάζοντας διαφορετικά πολιτισμικά στοιχεία μακριά από την τόσο γνωστή καλδέρα. Η διάρκεια της διαδρομής είναι κατά μέσο 3 – 4 ώρες ανάλογα το σημείο εκκίνησης. Ξεκινώντας από το Μεγαλοχώρι, ένα από τα πιο παραδοσιακά χωριά του νησιού κατευθυνόμαστε στην πίσω πλευρά του χωριού οπού εκεί ξεκινάει το μονοπάτι προς τον Πύργο. Η αρχή του μονοπατιού γίνεται μέσα από τον πολύ ξεχωριστό θηραϊκό αμπελώνα  και κατευθυνόμαστε ουσιαστικά μέσα σε λίγη ώρα (30 – 40 λεπτά) στην αρχή της εισόδου του Πύργου. Από εκεί, έχουμε τη δυνατότητα, να επισκεφθούμε έναν από τους ιδιαίτερους οχυρωματικούς οικισμούς των Κυκλάδων, τον Πύργο, με μοναδικά στοιχεία  αρχιτεκτονικής. Διασχίζοντας τον κεντρικό δρόμο, εντοπίζουμε τη συνέχεια του μονοπατιού προς το Εμπορείο. Εκεί, έχοντας στα δεξιά μας τον κάμπο του Πύργου – Εμπορείου κατευθυνόμαστε σε μια άγνωστη γόνιμη πλευρά του νησιού. Λίγο πριν το τέλος, διακρίνεται εκτός των άλλων η εκκλησία της Αγίας Αικατερίνας στο Εμπορείο. Η διαδρομή ολοκληρώνεται λίγα μέτρα πιο μακριά όπου συναντάμε την είσοδο του Καστελιού (Κάστρο) του Εμπορείου. Ενδιαφέροντα σημεία μέσα στο κάστρο είναι ο τρόπος δόμησης των σπιτιών αλλά και η εκκλησία της Παναγίας (Κοίμηση της Θεοτόκου)."
+            },
+            "en": {
+              "title": "Hiking path Volcano Ηiking",
+              "subtitle": "Path",
+              "short_descr": "The walk will begin at the northern end of Perissa beach.",
+              "long_descr": "The walk will begin at the northern end of Perissa beach. You will soon pass the ruins of a Byzantine church (Saint Irini) on your right, and after a short distance, you will find the trailhead with a sign for \"Ancient Thira.\" The small church of Virgin Mary Katefiani ( Panagia Katefiani) can be found hidden in the cliffs high up on the right. The name 'Katefiani' is derived from the Greek words katefio or katefygio, which mean a place of refuge, as the inhabitants sought refuge there during hostile raids. It dates from 1537 to 1650 AD. The route concludes at Ancient Thera, where you can explore the Archeological site. From there, you can begin your descent down to Kamari's side. . You'll pass Zoodochos Pigi's little church on your way down ( Life- Giving Spring). The cave's natural spring is the only source of fresh water on the island of Santorini. The Zoodochos Pigi Cave is 25 meters long. It is named after the church located at the cave's entrance. Stalactites and stalagmites can be found in the cave. ( approx 2 hours)"
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 52,
+          "texture": "images/pins/paths.png",
+          "pos": {
+            "x": 35,
+            "y": 7,
+            "z": 50
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.42857,
+        "lon": 25.42739,
+        "id": 52,
+        "img": ["is1.jpg", "is2.jpg", "is3.jpg", "is4.jpg", "is5.jpg", "is6.jpg", "is7.jpg", "is8.jpg", "is9.jpg", "is10.jpg", "is11.jpg", "is12.jpg"],
+        "path": "walking_path_imerovigli_skaros/",
+        "video": "imerovigli_skaros.mp4",
+        "panorama": "imerovigli_skaros.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Μονοπάτι Ημεροβίγλι - Σκάρος",
+              "subtitle": "Διαδρομή",
+              "short_descr": "Μία από τις πιο άγνωστες και ενδιαφέρουσες ταυτόχρονα διαδρομές του νησιού παρουσιάζοντας διαφορετικά πολιτισμικά στοιχεία μακριά από την τόσο γνωστή καλδέρα.",
+              "long_descr": "Μία από τις πιο άγνωστες και ενδιαφέρουσες ταυτόχρονα διαδρομές του νησιού παρουσιάζοντας διαφορετικά πολιτισμικά στοιχεία μακριά από την τόσο γνωστή καλδέρα. Η διάρκεια της διαδρομής είναι κατά μέσο 3 – 4 ώρες ανάλογα το σημείο εκκίνησης. Ξεκινώντας από το Μεγαλοχώρι, ένα από τα πιο παραδοσιακά χωριά του νησιού κατευθυνόμαστε στην πίσω πλευρά του χωριού οπού εκεί ξεκινάει το μονοπάτι προς τον Πύργο. Η αρχή του μονοπατιού γίνεται μέσα από τον πολύ ξεχωριστό θηραϊκό αμπελώνα  και κατευθυνόμαστε ουσιαστικά μέσα σε λίγη ώρα (30 – 40 λεπτά) στην αρχή της εισόδου του Πύργου. Από εκεί, έχουμε τη δυνατότητα, να επισκεφθούμε έναν από τους ιδιαίτερους οχυρωματικούς οικισμούς των Κυκλάδων, τον Πύργο, με μοναδικά στοιχεία  αρχιτεκτονικής. Διασχίζοντας τον κεντρικό δρόμο, εντοπίζουμε τη συνέχεια του μονοπατιού προς το Εμπορείο. Εκεί, έχοντας στα δεξιά μας τον κάμπο του Πύργου – Εμπορείου κατευθυνόμαστε σε μια άγνωστη γόνιμη πλευρά του νησιού. Λίγο πριν το τέλος, διακρίνεται εκτός των άλλων η εκκλησία της Αγίας Αικατερίνας στο Εμπορείο. Η διαδρομή ολοκληρώνεται λίγα μέτρα πιο μακριά όπου συναντάμε την είσοδο του Καστελιού (Κάστρο) του Εμπορείου. Ενδιαφέροντα σημεία μέσα στο κάστρο είναι ο τρόπος δόμησης των σπιτιών αλλά και η εκκλησία της Παναγίας (Κοίμηση της Θεοτόκου)."
+            },
+            "en": {
+              "title": "Hiking path Imerovigli – Skaros",
+              "subtitle": "Path",
+              "short_descr": "You can start from the village of Imerovigli and you will be in Skaros no more than 10 minutes",
+              "long_descr": "You can start from the village of Imerovigli and you will be in Skaros no more than 10 minutes. The volcano's eruptions caused extensive damage to the castle. It was the capital until the 18th century, but it appears that it was abandoned due to the earthquakes of 1701-1711. The castle was destroyed during a 19th-century earthquake, and only a few ruins remain today. The organization of the settlement reflects most clearly its fortified character as the order of the structrures and their arrangement were directly influenced by the common concept of that era.  The trail ends at the Chapel of Theoskepasti.  This is a lovely church on one of Santorini's most difficult hills, standing alone in winds and storms and commanding the deep blue in front of him. Its unique beauty inspired our great writer Elias Venezis to write a lovely short story dedicated to this small church ( approx 1 ½ h)"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cat_id": 6,
+    "img": "images/pins/castle.png",
+    "monuments": [
+      {
+        "pin": {
+          "pin_id": 30,
+          "texture": "images/pins/castle.png",
+          "pos": {
+            "x": -1.84,
+            "y": 6.42,
+            "z": 70.12
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.43206,
+        "lon": 25.41729,
+        "id": 30,
+        "img": ["skaros1.jpg", "skaros2.jpg", "skaros3.jpg", "skaros4.jpg", "skaros5.jpg", "skaros6.jpg", "skaros7.jpg", "skaros8.jpg", "skaros9.jpg", "skaros10.jpg", "skaros11.jpg", "skaros12.jpg"],
+        "path": "skaros/",
+        "video": "skaros.mp4",
+        "panorama": "skaros_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Κάστρο Σκάρου",
+              "subtitle": "Κάστρο",
+              "short_descr": "Ένας από τους πιο σημαντικούς οικισμούς του Αιγαίου και ένας από τους πιο διάσημους αρχαιολογικούς χώρους της Ελλάδας.",
+              "long_descr": "Ένας από τους πιο σημαντικούς οικισμούς του Αιγαίου και ένας από τους πιο διάσημους αρχαιολογικούς χώρους της Ελλάδας. Οι πρώτες εγκαταστάσεις στο Ακρωτήρι χρονολογούνται από την Ύστερη Νεολιθική Εποχή (4η χιλιετία π.Χ.),  ενώ ο οικισμός που διαμορφώθηκε χρόνια μετά, αναδείχθηκε σε ένα από τα πιο σημαντικά αστικά κέντρα και λιμάνια του Αιγαίου. Η μεγάλη του έκταση, περίπου 200 στρέμματα, η άριστη πολεοδομική του οργάνωση, οι εμπορικές  συναλλαγές  με τον Μινωικό Πολιτισμό - Κρήτη, η πληθώρα οικιστικών  ευρημάτων καθώς και οι ξεχωριστές τοιχογραφίες αναδεικνύουν την ιστορική και πολιτισμική ανάπτυξη του χώρου. Η ίδια αιτία που κατέστρεψε τον προϊστορικό οικισμό του Ακρωτηρίου ήταν η ίδια αιτία που διατήρησε ανέπαφα τα ευρήματα μέχρι και τώρα, η  ηφαιστειακή έκρηξη που έγινε στα μέσα του 17ου αι π.X Στοιχεία για την κατοίκηση του ακρωτηρίου άρχισαν να έρχονται στο φως στα μέσα του 19ου αιώνα κυρίως από ξένες αρχαιολογικές ανασκαφές. Οι συστηματικές όμως ανασκαφές ξεκίνησαν το 1967 από τον καθηγητή Αρχαιολογίας Σπύρο Μαρινάτο, ενώ συνεχίζονται μέχρι σήμερα από τον Καθηγητή Χρίστο Ντούμα."
+            },
+            "en": {
+              "title": "Castle of Skaros",
+              "subtitle": "Castle",
+              "short_descr": "One of the most important settlements of the Aegean and one of the most famous archaeological sites of Greece.",
+              "long_descr": "Archeological Site of Ancient Thira: the ancient city, is located on Mesa Vouno mountain, 396 meters above sea level. It was founded in the 9th century BC by Dorian colonists led by Theras and remained inhabited until the Early Byzantine period. The preserved ruins date primarily from the Hellenistic and Roman periods of the city's history. The town of Ancient Thira was founded by King Thiras of Sparta, whose name was given on the island, during the second important period of flourishing. Located on the top of the mountain dividing Kamari from Perissa, Ancient Thira is hidden from your eyes. You must drive a zigzag road or walk a path for an hour to reach the top, from which you must continue walking until you reach the town. Important monuments include: The Sanctuary of Artemidoros, the Agora, the royal Stoa  and the Theater"
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 31,
+          "texture": "images/pins/castle.png",
+          "pos": {
+            "x": -1.84,
+            "y": 6.42,
+            "z": 70.12
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.46019,
+        "lon": 25.37273,
+        "id": 31,
+        "img": ["oia1.jpg", "oia2.jpg", "oia3.jpg", "oia4.jpg", "oia5.jpg", "oia6.jpg", "oia7.jpg", "oia8.jpg", "oia9.jpg", "oia10.jpg", "oia11.jpg", "oia12.jpg"],
+        "path": "oia_castle/",
+        "video": "oia_castle.mp4",
+        "panorama": "oia_castle_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Κάστρο της Οίας",
+              "subtitle": "Κάστρο",
+              "short_descr": "Ένας από τους πιο σημαντικούς οικισμούς του Αιγαίου και ένας από τους πιο διάσημους αρχαιολογικούς χώρους της Ελλάδας.",
+              "long_descr": "Ένας από τους πιο σημαντικούς οικισμούς του Αιγαίου και ένας από τους πιο διάσημους αρχαιολογικούς χώρους της Ελλάδας. Οι πρώτες εγκαταστάσεις στο Ακρωτήρι χρονολογούνται από την Ύστερη Νεολιθική Εποχή (4η χιλιετία π.Χ.),  ενώ ο οικισμός που διαμορφώθηκε χρόνια μετά, αναδείχθηκε σε ένα από τα πιο σημαντικά αστικά κέντρα και λιμάνια του Αιγαίου. Η μεγάλη του έκταση, περίπου 200 στρέμματα, η άριστη πολεοδομική του οργάνωση, οι εμπορικές  συναλλαγές  με τον Μινωικό Πολιτισμό - Κρήτη, η πληθώρα οικιστικών  ευρημάτων καθώς και οι ξεχωριστές τοιχογραφίες αναδεικνύουν την ιστορική και πολιτισμική ανάπτυξη του χώρου. Η ίδια αιτία που κατέστρεψε τον προϊστορικό οικισμό του Ακρωτηρίου ήταν η ίδια αιτία που διατήρησε ανέπαφα τα ευρήματα μέχρι και τώρα, η  ηφαιστειακή έκρηξη που έγινε στα μέσα του 17ου αι π.X Στοιχεία για την κατοίκηση του ακρωτηρίου άρχισαν να έρχονται στο φως στα μέσα του 19ου αιώνα κυρίως από ξένες αρχαιολογικές ανασκαφές. Οι συστηματικές όμως ανασκαφές ξεκίνησαν το 1967 από τον καθηγητή Αρχαιολογίας Σπύρο Μαρινάτο, ενώ συνεχίζονται μέχρι σήμερα από τον Καθηγητή Χρίστο Ντούμα."
+            },
+            "en": {
+              "title": "Castle of Oia ",
+              "subtitle": "Castle",
+              "short_descr": "One of the most important settlements of the Aegean and one of the most famous archaeological sites of Greece.",
+              "long_descr": "Is the most popular location to view the world-famous sunset and is located in the picturesque village of Oia. Today, all that remains of an extremely important naval castle is visible. For more see the hiking trail Fira- Oia "
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 32,
+          "texture": "images/pins/castle.png",
+          "pos": {
+            "x": -1.84,
+            "y": 6.42,
+            "z": 70.12
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.38382,
+        "lon": 25.45125,
+        "id": 32,
+        "img": ["pyrgos1.jpg", "pyrgos2.jpg", "pyrgos3.jpg", "pyrgos4.jpg", "pyrgos5.jpg", "pyrgos6.jpg", "pyrgos7.jpg", "pyrgos8.jpg", "pyrgos9.jpg", "pyrgos10.jpg", "pyrgos11.jpg", "pyrgos12.jpg"],
+        "path": "pyrgos_castle/",
+        "video": "pyrgos_castle.mp4",
+        "panorama": "pyrgos_castle_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Κάστρο Πύργου Καλλίστης",
+              "subtitle": "Κάστρο",
+              "short_descr": "Ένας από τους πιο σημαντικούς οικισμούς του Αιγαίου και ένας από τους πιο διάσημους αρχαιολογικούς χώρους της Ελλάδας.",
+              "long_descr": "Ένας από τους πιο σημαντικούς οικισμούς του Αιγαίου και ένας από τους πιο διάσημους αρχαιολογικούς χώρους της Ελλάδας. Οι πρώτες εγκαταστάσεις στο Ακρωτήρι χρονολογούνται από την Ύστερη Νεολιθική Εποχή (4η χιλιετία π.Χ.),  ενώ ο οικισμός που διαμορφώθηκε χρόνια μετά, αναδείχθηκε σε ένα από τα πιο σημαντικά αστικά κέντρα και λιμάνια του Αιγαίου. Η μεγάλη του έκταση, περίπου 200 στρέμματα, η άριστη πολεοδομική του οργάνωση, οι εμπορικές  συναλλαγές  με τον Μινωικό Πολιτισμό - Κρήτη, η πληθώρα οικιστικών  ευρημάτων καθώς και οι ξεχωριστές τοιχογραφίες αναδεικνύουν την ιστορική και πολιτισμική ανάπτυξη του χώρου. Η ίδια αιτία που κατέστρεψε τον προϊστορικό οικισμό του Ακρωτηρίου ήταν η ίδια αιτία που διατήρησε ανέπαφα τα ευρήματα μέχρι και τώρα, η  ηφαιστειακή έκρηξη που έγινε στα μέσα του 17ου αι π.X Στοιχεία για την κατοίκηση του ακρωτηρίου άρχισαν να έρχονται στο φως στα μέσα του 19ου αιώνα κυρίως από ξένες αρχαιολογικές ανασκαφές. Οι συστηματικές όμως ανασκαφές ξεκίνησαν το 1967 από τον καθηγητή Αρχαιολογίας Σπύρο Μαρινάτο, ενώ συνεχίζονται μέχρι σήμερα από τον Καθηγητή Χρίστο Ντούμα."
+            },
+            "en": {
+              "title": "Castle of Pyrgos",
+              "subtitle": "Castle",
+              "short_descr": "One of the most important settlements of the Aegean and one of the most famous archaeological sites of Greece.",
+              "long_descr": "The Kasteli of Pyrgos, in the foothills of the Mesa Vouno, is the best-preserved structure of fortified buildings on the island today. The castle could only be entered through one point, the 'Porta,' ( The Doοr) above which protruded a square structure with an opening at the bottom part through which the castle's inhabitants could pour burning oil on intruders. This structure is no longer in existence. Outside of it, like all the other Santorini castles, there is one specific church of Saint Theodosia, which is the saint protector of the castles."
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 33,
+          "texture": "images/pins/castle.png",
+          "pos": {
+            "x": -1.84,
+            "y": 6.42,
+            "z": 70.12
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.3592,
+        "lon": 25.44579,
+        "id": 33,
+        "img": ["emporio1.jpg", "emporio2.jpg", "emporio3.jpg", "emporio4.jpg", "emporio5.jpg", "emporio6.jpg", "emporio7.jpg", "emporio8.jpg", "emporio9.jpg", "emporio10.jpg", "emporio11.jpg", "emporio12.jpg"],
+        "path": "emporio_castle/",
+        "video": "emporio_castle.mp4",
+        "panorama": "emporio_castle_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Κάστρο Πύργου Καλλίστης",
+              "subtitle": "Κάστρο",
+              "short_descr": "Ένας από τους πιο σημαντικούς οικισμούς του Αιγαίου και ένας από τους πιο διάσημους αρχαιολογικούς χώρους της Ελλάδας.",
+              "long_descr": "Ένας από τους πιο σημαντικούς οικισμούς του Αιγαίου και ένας από τους πιο διάσημους αρχαιολογικούς χώρους της Ελλάδας. Οι πρώτες εγκαταστάσεις στο Ακρωτήρι χρονολογούνται από την Ύστερη Νεολιθική Εποχή (4η χιλιετία π.Χ.),  ενώ ο οικισμός που διαμορφώθηκε χρόνια μετά, αναδείχθηκε σε ένα από τα πιο σημαντικά αστικά κέντρα και λιμάνια του Αιγαίου. Η μεγάλη του έκταση, περίπου 200 στρέμματα, η άριστη πολεοδομική του οργάνωση, οι εμπορικές  συναλλαγές  με τον Μινωικό Πολιτισμό - Κρήτη, η πληθώρα οικιστικών  ευρημάτων καθώς και οι ξεχωριστές τοιχογραφίες αναδεικνύουν την ιστορική και πολιτισμική ανάπτυξη του χώρου. Η ίδια αιτία που κατέστρεψε τον προϊστορικό οικισμό του Ακρωτηρίου ήταν η ίδια αιτία που διατήρησε ανέπαφα τα ευρήματα μέχρι και τώρα, η  ηφαιστειακή έκρηξη που έγινε στα μέσα του 17ου αι π.X Στοιχεία για την κατοίκηση του ακρωτηρίου άρχισαν να έρχονται στο φως στα μέσα του 19ου αιώνα κυρίως από ξένες αρχαιολογικές ανασκαφές. Οι συστηματικές όμως ανασκαφές ξεκίνησαν το 1967 από τον καθηγητή Αρχαιολογίας Σπύρο Μαρινάτο, ενώ συνεχίζονται μέχρι σήμερα από τον Καθηγητή Χρίστο Ντούμα."
+            },
+            "en": {
+              "title": "Castle of Emporio",
+              "subtitle": "Castle",
+              "short_descr": "One of the most important settlements of the Aegean and one of the most famous archaeological sites of Greece.",
+              "long_descr": "The castle in Emporio was built in the mid-15th century in the center village. It was fortified and well-structured; the houses were built side by side and connected by bridges. The interior is reminiscent of a labyrinth, with very narrow streets that can only fit one person. Νο matter where you look, there are steps, doors, small windows, and arches. The castle's architecture is outstanding, and visitors are overcome with emotion as they walk through its halls."
+            }
+          }
+        ]
+      },
+      {
+        "pin": {
+          "pin_id": 34,
+          "texture": "images/pins/castle.png",
+          "pos": {
+            "x": -1.84,
+            "y": 6.42,
+            "z": 70.12
+          },
+          "visibledistance": 1000000
+        },
+        "lat": 36.35826,
+        "lon": 25.39695,
+        "id": 34,
+        "img": ["akrotiri1.jpg", "akrotiri2.jpg", "akrotiri3.jpg", "akrotiri4.jpg", "akrotiri5.jpg", "akrotiri6.jpg", "akrotiri7.jpg", "akrotiri8.jpg", "akrotiri9.jpg", "akrotiri10.jpg", "akrotiri11.jpg", "akrotiri12.jpg"],
+        "path": "akrotiri_castle/",
+        "video": "akrotiri_castle.mp4",
+        "panorama": "akrotiri_castle_panorama.jpg",
+        "favourite": false,
+        "translations": [
+          {
+            "el": {
+              "title": "Κάστρο Πύργου Καλλίστης",
+              "subtitle": "Κάστρο",
+              "short_descr": "Ένας από τους πιο σημαντικούς οικισμούς του Αιγαίου και ένας από τους πιο διάσημους αρχαιολογικούς χώρους της Ελλάδας.",
+              "long_descr": "Ένας από τους πιο σημαντικούς οικισμούς του Αιγαίου και ένας από τους πιο διάσημους αρχαιολογικούς χώρους της Ελλάδας. Οι πρώτες εγκαταστάσεις στο Ακρωτήρι χρονολογούνται από την Ύστερη Νεολιθική Εποχή (4η χιλιετία π.Χ.),  ενώ ο οικισμός που διαμορφώθηκε χρόνια μετά, αναδείχθηκε σε ένα από τα πιο σημαντικά αστικά κέντρα και λιμάνια του Αιγαίου. Η μεγάλη του έκταση, περίπου 200 στρέμματα, η άριστη πολεοδομική του οργάνωση, οι εμπορικές  συναλλαγές  με τον Μινωικό Πολιτισμό - Κρήτη, η πληθώρα οικιστικών  ευρημάτων καθώς και οι ξεχωριστές τοιχογραφίες αναδεικνύουν την ιστορική και πολιτισμική ανάπτυξη του χώρου. Η ίδια αιτία που κατέστρεψε τον προϊστορικό οικισμό του Ακρωτηρίου ήταν η ίδια αιτία που διατήρησε ανέπαφα τα ευρήματα μέχρι και τώρα, η  ηφαιστειακή έκρηξη που έγινε στα μέσα του 17ου αι π.X Στοιχεία για την κατοίκηση του ακρωτηρίου άρχισαν να έρχονται στο φως στα μέσα του 19ου αιώνα κυρίως από ξένες αρχαιολογικές ανασκαφές. Οι συστηματικές όμως ανασκαφές ξεκίνησαν το 1967 από τον καθηγητή Αρχαιολογίας Σπύρο Μαρινάτο, ενώ συνεχίζονται μέχρι σήμερα από τον Καθηγητή Χρίστο Ντούμα."
+            },
+            "en": {
+              "title": "Castle of Akrotiri",
+              "subtitle": "Castle",
+              "short_descr": "One of the most important settlements of the Aegean and one of the most famous archaeological sites of Greece.",
+              "long_descr": "The castle was in good condition until 1956, when an earthquake struck Santorini. Today, you can admire the ruins and fragments that have remained to get a sense of how this glorious settlement used to be in its prosperity."
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
